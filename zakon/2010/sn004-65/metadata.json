@@ -1,0 +1,31 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/Sluzbene_TK_broj_4.pdf",
+  "issue": 4,
+  "publication_date": "2010-04-12",
+  "no": 65,
+  "path": "zakon/2010/sn004-65",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O NABAVLJANJU, DRŽANJU I NOŠENJU ORUŽJA",
+  "in_force": "2010-04-12",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u “Službenim novinama Tuzlanskog kantona”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "f7bb05e041b71fd372e990f66fd38f2c756fee0ff825a419e1cbc7f7305fde92",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    13
+  ],
+  "text_sha256": "cbfe7cdaadc1784310d5041c1a6514abfde6980f40bb292371017f7034fc7757",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 23,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
