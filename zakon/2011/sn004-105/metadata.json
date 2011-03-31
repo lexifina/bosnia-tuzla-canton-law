@@ -1,0 +1,37 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_4.pdf",
+  "issue": 4,
+  "publication_date": "2011-03-31",
+  "no": 105,
+  "path": "zakon/2011/sn004-105",
+  "title": "Zakon O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2011. GODINU",
+  "in_force": "2011-03-31",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u “Službenim novinama Tuzlanskog kantona”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "8d4e83ef320da0d5b1c7dcd7e06cc4a11575d10312e9e183ee46fd605a155491",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    284,
+    285,
+    286,
+    287,
+    288,
+    289,
+    290
+  ],
+  "text_sha256": "d0f900f9ce4db0781487f41fd04ab4a108780407d31678748cb87389ff2cac35",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 468,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
