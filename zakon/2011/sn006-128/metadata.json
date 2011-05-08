@@ -1,0 +1,32 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_6.pdf",
+  "issue": 6,
+  "publication_date": "2011-04-30",
+  "no": 128,
+  "path": "zakon/2011/sn006-128",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O KONCESIJAMA",
+  "in_force": "2011-05-08",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenim novinama Tuzlanskog kantona“.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "bad3e287e0484a5a3d8c746fb2dd4a753e8381a80d1b9c8c1dac2f58e52e4f59",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    34,
+    35
+  ],
+  "text_sha256": "e5e509a258401fd965232a4085c545f86fb9fd67318a33db0cf25a66988b3f3f",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 121,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
