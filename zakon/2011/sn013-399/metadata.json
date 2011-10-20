@@ -1,0 +1,31 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_13.pdf",
+  "issue": 13,
+  "publication_date": "2011-10-12",
+  "no": 399,
+  "path": "zakon/2011/sn013-399",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O POZORIŠNOJ DJELATNOSTI",
+  "in_force": "2011-10-20",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenim novinama Tuzlanskog kantona“ B o s n a i H e r c e g o v i n a Predsjednik - Federacija Bosne i Hercegovine - Skupštine Tuzlanskog kantona, T U Z L A N S K I K A N T O N S k u p š t i n a Bajazit Jašarević, v.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "adae4dc9713ccae49be39acc146f84616a6cec8712170874cefdf73e62d5650b",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    2
+  ],
+  "text_sha256": "d643ef64131a6fcf7a8913c83f4d1fbd35a4d468e2ab5c199ea33a1275fbe24f",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 84,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
