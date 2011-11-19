@@ -1,0 +1,32 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_14.pdf",
+  "issue": 14,
+  "publication_date": "2011-11-11",
+  "no": 491,
+  "path": "zakon/2011/sn014-491",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM REDU I MIRU",
+  "in_force": "2011-11-19",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u “Službenim novinama Tuzlanskog kantona”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "38103dbf6f05b12349007be568f0aed8c5b137f983e55b35c2baac1457774a53",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    18,
+    19
+  ],
+  "text_sha256": "fd99e2f67084585a34661fbd1ce07507b38424e3adba431c973a17ae89d37a84",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 53,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
