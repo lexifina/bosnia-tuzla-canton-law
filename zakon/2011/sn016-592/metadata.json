@@ -1,0 +1,32 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_16.pdf",
+  "issue": 16,
+  "publication_date": "2011-12-23",
+  "no": 592,
+  "path": "zakon/2011/sn016-592",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA TUZLANSKOG KANTONA",
+  "in_force": "2011-12-31",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u “Službenim novinama Tuzlanskog kantona”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "7f1a1fae2aa6d478694ad2b5d42c5ab99715410cf8d4cfcc70a69cd1f105315a",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    280,
+    281
+  ],
+  "text_sha256": "491322cb29316efd4d111a6f97dd734dfb7ec549fb883dfaba7d3639f3c7eeb8",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 167,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
