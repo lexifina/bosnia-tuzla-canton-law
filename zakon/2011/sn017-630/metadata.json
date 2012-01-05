@@ -1,0 +1,36 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_17.pdf",
+  "issue": 17,
+  "publication_date": "2011-12-28",
+  "no": 630,
+  "path": "zakon/2011/sn017-630",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVNOM ODGOJU I OBRAZOVANJU",
+  "in_force": "2012-01-05",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenim novinama Tuzlanskog kantona“.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "e5ab239d9036840923876054608ea4687c8b9e841cf5daca5fa1c6c7630f4a2c",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "text_sha256": "d76cedbd98a6f45d8733a03503d15181e48337851a2a6bd2263485496378075a",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 620,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
