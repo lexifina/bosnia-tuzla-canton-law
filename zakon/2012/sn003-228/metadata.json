@@ -1,0 +1,39 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj__3.pdf",
+  "issue": 3,
+  "publication_date": "2012-03-31",
+  "no": 228,
+  "path": "zakon/2012/sn003-228",
+  "title": "Zakon O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2012. GODINU",
+  "in_force": "2012-03-31",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u “Službenim novinama Tuzlanskog kantona”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "db66d2f4da6413de26b9114b87299a918261f20b4a076b350522834ed61209be",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    291,
+    292,
+    293,
+    294,
+    295,
+    296,
+    297,
+    298,
+    300
+  ],
+  "text_sha256": "f182471a5a72421e10c74ebd23b10dcaa60b7117cf4279fddf85d746445c91e9",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 855,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
