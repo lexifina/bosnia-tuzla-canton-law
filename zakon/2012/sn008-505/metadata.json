@@ -1,0 +1,38 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_8.pdf",
+  "issue": 8,
+  "publication_date": "2012-07-12",
+  "no": 505,
+  "path": "zakon/2012/sn008-505",
+  "title": "Закон О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ИНСПЕКЦИЈАМА ТУЗЛАНСКОГ КАНТОНА",
+  "in_force": "2012-07-20",
+  "in_force_basis": "Овај закон ступа на снагу осмог дана од дана објављивања у „Службеним новинама Тузланског кантона“.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "b15c75f07be547088f44906b7cacc1876b2c34b297ba4baacb80a478f842a703",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "text_sha256": "69868efa44d21dc437fbc948c655d7f9c7240143c3000152d82eda4d805f523c",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 888,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
