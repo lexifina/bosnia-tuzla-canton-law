@@ -1,0 +1,33 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_9.pdf",
+  "issue": 9,
+  "publication_date": "2012-08-03",
+  "no": 573,
+  "path": "zakon/2012/sn009-573",
+  "title": "Закон О ИЗМЈЕНАМА ЗАКОНА О ОСНИВАЊУ ЈАВНОГ ПРЕДУЗЕЋА „МЕЂУНАРОДНИ АЕРОДРОМ ТУЗЛА“",
+  "in_force": "2012-08-11",
+  "in_force_basis": "Овај закон ступа на снагу осмог дана од дана објављивања у „Службеним новинама Тузланског кантона“.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "f43de4e5f0b748a435a914896bfd6b71ab5dc6a62106d39e53f288983cca0058",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    16,
+    17,
+    18
+  ],
+  "text_sha256": "37cfc349cd9786465054532c3adc9853261162795b610b0599b8531927132411",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 184,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
