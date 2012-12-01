@@ -1,0 +1,32 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_13.pdf",
+  "issue": 13,
+  "publication_date": "2012-11-30",
+  "no": 906,
+  "path": "zakon/2012/sn013-906",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2012. GODINU",
+  "in_force": "2012-12-01",
+  "in_force_basis": "Ovaj zakon stupa na snagu narednog dana od dana objavljivanja u “Službenim novinama Tuzlanskog kantona”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "c93850c57b08306603be5b45db32666de77e7655cbe18e87973c37e4dd752def",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    283,
+    284
+  ],
+  "text_sha256": "9cbe49707195cef8d54df0c5397186d6d02e8957ac6ffb0da4f7f5ec07158c7e",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 27,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
