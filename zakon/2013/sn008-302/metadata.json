@@ -1,0 +1,31 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.8-2013.pdf",
+  "issue": 8,
+  "publication_date": "2013-07-03",
+  "no": 302,
+  "path": "zakon/2013/sn008-302",
+  "title": "Закон О ИЗМЈЕНИ ЗАКОНА О УНУТРАШЊИМ ПОСЛОВИМА ТУЗЛАНСКОГ КАНТОНА",
+  "in_force": "2013-07-11",
+  "in_force_basis": "Овај закон ступа на снагу осмог дана од дана објављивања у “Службеним новинама Тузланског кантона”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "c4c79ed842a89d991dcb88225cd96bd5c689f1375fb656e4c23b3080f368b2f9",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    2
+  ],
+  "text_sha256": "ddad5876db281b6ed5f67a572a7cc9c986a1de3b874d9db2cd7b73350cbfb5fa",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 25,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
