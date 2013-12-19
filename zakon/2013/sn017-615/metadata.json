@@ -1,0 +1,31 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.17-2013.pdf",
+  "issue": 17,
+  "publication_date": "2013-12-11",
+  "no": 615,
+  "path": "zakon/2013/sn017-615",
+  "title": "Zakon O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA",
+  "in_force": "2013-12-19",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenim novinama Tuzlanskog kantona“.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "9904693dc1a42510a7ba3fda5a06f50fb868df5d505e08bd76f1e183ebcb1940",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    1
+  ],
+  "text_sha256": "e8553ed504be81df2ffd24708bac5cf770f159eeb23509d6e05688754a644b2c",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 36,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
