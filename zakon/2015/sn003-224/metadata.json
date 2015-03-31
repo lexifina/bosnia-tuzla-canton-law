@@ -1,0 +1,41 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/SluzbeneNovineTK%20BR.3-2015.pdf",
+  "issue": 3,
+  "publication_date": "2015-03-31",
+  "no": 224,
+  "path": "zakon/2015/sn003-224",
+  "title": "Zakon O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2015. GODINU",
+  "in_force": "2015-03-31",
+  "in_force_basis": "Ovaj zakon stupa na snagu danom objavljivanja u “Službenim novinama Tuzlanskog kantona”.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "080cf149075db8c1301a2e8b2e7a7eea9d2756bbcb80688add39f76294ef56c8",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    270,
+    271,
+    272,
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280
+  ],
+  "text_sha256": "4c1caecf67bea1d0a0c4c239d16c5475102dd17669a24bcdf7ead1985afd2ab7",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 795,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
