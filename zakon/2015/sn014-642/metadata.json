@@ -1,0 +1,34 @@
+{
+  "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/Sluzbene%20novine%20TK%20br.%2014%20-%202015.pdf",
+  "issue": 14,
+  "publication_date": "2015-11-20",
+  "no": 642,
+  "path": "zakon/2015/sn014-642",
+  "title": "Zakon O JAVNIM PRIZNANJIMA TUZLANSKOG KANTONA",
+  "in_force": "2015-11-28",
+  "in_force_basis": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u “Službenim novinama Tuzlanskog kantona”, a primjenjivat će se od 01.",
+  "text_status": "as-enacted",
+  "first_law": null,
+  "source_sha256": "03473e2bc706bb7bf2f5d32240ff74d2c6db1cc7e3398f0edac8a1b977f0c3a4",
+  "source_images": 0,
+  "referenced_images": 0,
+  "omitted_images": 0,
+  "source_pages": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "text_sha256": "786e5394e035440bd197a7ae9d3aca3045f5ec9616e47c8c0d4e64f900982c5f",
+  "consolidation_status": "not established",
+  "verification": {
+    "reader": "pypdf",
+    "body_lines_in_order": 347,
+    "exact_body_span": true,
+    "two_official_pdf_extractions_identical": true,
+    "body_exact_official_pypdf_span": true,
+    "signature_fields_independently_present_in_source": true,
+    "publication_date_independently_confirmed": true,
+    "image_survey": "complete source record interval, including image-only pages"
+  }
+}
