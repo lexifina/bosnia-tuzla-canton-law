@@ -1,0 +1,6 @@
+Član 93.
+(Prestanak ugovora o radu akademskog osoblja po osnovu godina života i staža osiguranja ili po osnovu godina staža osiguranja)
+(1) Akademskom osoblju prestaje ugovor o radu sa visokoškolskom ustanovom na kraju akademske godine u kojoj je u skladu sa Zakonom o radu ispunio uslove za prestanak ugovora o radu po osnovu godina života i staža osiguranja ili po osnovu godina staža osiguranja.
+(2) Izuzetno, visokoškolska ustanova može donijeti odluku o zadržavanju u radnom odnosu nastavnika u naučno-nastavnom zvanju redovnog profesora za još najduže dvije akademske godine nakon što ispuni uslove za prestanak ugovora o radu iz stava (1) ovog člana, pod uslovom da postoji nastavna potreba za njegovim angažmanom, uzimajući u obzir nastavnu potrebu za napredovanjem izabranih viših asistenata.
+(3) Odluku iz stava (2) ovog člana, na prethodni zahtjev nastavnika upućen naučno-nastavnom vijeću i na prijedlog naučno-nastavnog vijeća, donosi senat visokoškolske ustanove.
+(4) Akademsko osoblje kojem je prestao ugovor o radu iz razloga propisanih stavom (1) ovog člana, zadržava naučno-nastavno/umjetničko-nastavno/nastavno zvanje do isteka izbornog perioda koje je imalo u trenutku prestanka ugovora o radu, odnosno trajno ako se radi o naučno-nastavnom/umjetničko-nastavnom/nastavnom zvanju redovnog profesora/profesora visoke škole.

@@ -1,0 +1,4 @@
+Član 12.
+(Pravo na visoko obrazovanje)
+(1) Na visokoškolskoj ustanovi ne može se ograničiti pristup visokom obrazovanju licima koja su završila četverogodišnje srednje obrazovanje, direktno ili indirektno, prema bilo kojoj stvarnoj ili pretpostavljenoj osnovi suprotnoj ustavu, zakonima i međunarodnom pravu, kao što su spol, rasa, seksualna orijentacija, fizički ili drugi nedostatak, bračno stanje, boja kože, jezik, vjeroispovijest, političko ili drugo mišljenje, nacionalno, etničko ili socijalno porijeklo, veza s nekom nacionalnom zajednicom, imovina, rođenje ili prema nekom drugom statusu.
+(2) Visokoškolska ustanova će osigurati pravo na visoko obrazovanje stranim državljanima i licima bez državljanstva u skladu sa načelima u Evropskoj zoni visokog obrazovanja omogućavajući studij pod istim uslovima kao i državljanima Bosne i Hercegovine.

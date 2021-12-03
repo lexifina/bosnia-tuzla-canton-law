@@ -1,0 +1,4 @@
+Član 169.
+(Zaposlenici izabrani ili imenovani na javnu dužnost ili profesionalnu funkciju)
+(1) Zaposlenicima iz reda akademskog osoblja zatečenim na javnoj dužnosti ili profesionalnoj funkciji u momentu stupanja na snagu Zakona o izmjenama i dopunama Zakona o visokom obrazovanju („Službene novine Tuzlanskog kantona“, broj: 17/21), na njihov prethodni zahtjev, uspostavit će se mirovanje rokova za izbor u naučno-nastavna, umjetničko-nastavna, nastavna ili umjetnička zvanja u skladu sa navedenim zakonom.
+(2) Prethodni zahtjev za uspostavljanje mirovanja rokova za izbor u naučno-nastavna, umjetničko-nastavna, nastavna ili umjetnička zvanja, lica iz stava (1) ovog člana mogu podnijeti najkasnije u roku od 30 dana od dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o visokom obrazovanju („Službene novine Tuzlanskog kantona“, broj: 17/21).

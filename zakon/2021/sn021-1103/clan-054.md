@@ -1,0 +1,9 @@
+Član 54.
+(Izbor rektora javnog univerziteta i direktora javne visoke škole)
+(1) Rektora javnog univerziteta, odnosno direktora javne visoke škole, na osnovu javnog konkursa, bira senat na mandat od četiri godine i isti može biti ponovo biran.
+(2) Javni konkurs za izbor rektora javnog univerziteta, odnosno direktora javne visoke škole raspisuje senat i isti objavljuje u najmanje jednom dnevnom listu i na internet stranici visokoškolske ustanove, u pravilu najkasnije šest mjeseci prije isteka mandata rektora, odnosno direktora.
+(3) Tokom trajanja mandata rektora javnog univerziteta, odnosno direktora javne visoke škole prava i obaveze istog iz radnog odnosa miruju, počev od dana izbora, a najduže na period koliko traje obavljanje te funkcije.
+(4) Izabrani rektor javnog univerziteta i direktor javne visoke škole za period trajanja mandata sa visokoškolskom ustanovom zaključuje ugovor o obavljanju poslova rektora univerziteta, odnosno ugovor o obavljanju poslova direktora visoke škole.
+(5) Ugovor iz stava (4) ovog člana sa izabranim licem u ime visokoškolske ustanove potpisuje član senata visokoškolske ustanove ovlašten od strane senata. Ovlaštenje za potpisivanje ugovora senat daje na istoj sjednici na kojoj je izvršen izbor rektora javnog univerziteta, odnosno direktora javne visoke škole.
+(6) Nakon isteka mandata ili njegovog ranijeg prestanka na jedan od načina propisan ovim zakonom, licu koje je obavljalo dužnost rektora javnog univerziteta, odnosno direktora javne visoke škole ponovo se aktiviraju prava i obaveze u skladu sa ugovorom o radu koji je imao zaključen prije izbora na dužnost.
+(7) Rektor javnog univerziteta, odnosno direktor javne visoke škole, u domenu akademskih pitanja za svoj rad odgovara senatu, a u domenu poslovanja upravnom odboru, te najmanje jedanput godišnje podnosi senatu i upravnom odboru izvještaj o svom radu.
