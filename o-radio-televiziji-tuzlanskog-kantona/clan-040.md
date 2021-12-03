@@ -1,0 +1,2 @@
+Član 40.
+Dosadašnji Upravni odbor nastavlja sa radom kao Nadzorni odbor, do imenovanja Nadzornog odbora u skladu sa odredbama Zakona o ministarskim, vladinim i drugim imenovanjima Federacije Bosne i Hercegovine („Službene novine Federacije BiH“, br. 12/03 i 34/03) i Zakona o sukobu interesa u institucijama vlasti Bosne i Hercegovine („Službeni glasnik BiH“, br. 13/02, 16/02, 14/03 i 12/04), a najduže 90 dana od dana stupanja na snagu Zakona o izmjenama i dopunama Zakona o radio-televiziji Tuzlanskog kantona („Službene novine Tuzlanskog kantona“, broj: 5/06).
