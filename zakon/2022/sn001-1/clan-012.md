@@ -1,0 +1,3 @@
+Članak 12.
+U članku 63. stavak (4) mijenja se i glasi:
+„(4) Ukoliko nije drugačije propisano zakonom, na općinske i gradske inspekcije, kada vrše inspekcijski nadzor nad primjenom zakonskih propisa kojima je određena nadležnost općinskih i gradskih inspekcija, kao i nad primjenom općinskih i gradskih propisa, primjenjivat će se odredbe ovog zakona koje se odnose na poglavlje VII pod nazivom „Postupak inspekcijskog nadzora“, poglavlje VIII pod nazivom „Dostava pismena u inspekcijskom nadzoru“ i poglavlje XI pod nazivom „Kaznene odredbe“, na način da se sve što je istima propisano za kantonalne inspekcije i kantonalne inspektore, uz potrebne izmjene, primjenjuje i na općinske/gradske inspekcije i općinske/gradske inspektore.“
