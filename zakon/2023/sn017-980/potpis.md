@@ -1,0 +1,10 @@
+BOSNA I HERCEGOVINA
+-Federacija Bosne i Hercegovine-
+TUZLANSKI KANTON
+S K U P Š T I N A
+Broj: 01-02-425-6/23
+Tuzla, 30.10.2023. godine
+PREDSJEDNIK
+SKUPŠTINE TUZLANSKOG
+KANTONA
+Žarko Vujović,v.r.
