@@ -1,0 +1,6 @@
+Članak 13.
+(Utvrđivanje zdravstvene sposobnosti)
+(1) Uvjet iz članka 10. stavak (3) točka a) ovoga zakona podnositelj zahtjeva dokazuje uvjerenjem o zdravstvenoj sposobnosti za držanje, odnosno za držanje i nošenje oružja, a uposlene osobe u institucijama iz članka 4. stavak (3) ovog zakona, koje nabavljaju vatreno oružje u svoje osobne svrhe, ovaj uvjet dokazuju ispravom o uposlenju nadležne institucije.
+(2) Uvjerenje iz stavka (1) ovog članka izdaje nadležna zdravstvena ustanova koja ispunjava uvjete iz stavka (4) ovog članka s rokom važenja od šest mjeseci od dana izdavanja.
+(3) Isprava o uposlenju iz stavka (1) ovog članka ne može biti starija od šest mjeseci od dana izdavanja.
+(4) Uvjete koje moraju ispunjavati zdravstvene ustanove koje će obavljati zdravstvene preglede kojima se utvrđuje zdravstvena sposobnost za držanje i nošenje oružja, način i postupak obavljanja zdravstvenih pregleda, popis bolesti i zdravstvenih stanja koja osobu čine nepodobnom za držanje i nošenje oružja, način vođenja evidencije i medicinske dokumentacije i sadržaj uvjerenja o izvršenom zdravstvenom pregledu, utvrdit će se pravilnikom, koji donosi ministar zdravstva Tuzlanskog kantona uz suglasnost ministra.

@@ -1,0 +1,7 @@
+Članak 56.
+(Prodaja oružja, bitnih dijelova i municije)
+(1) Trgovac oružjem može prodavati vatreno oružje i bitne dijelove kategorije B fizičkoj i pravnoj osobi koja ima odobrenje za nabavljanje i posjedovanje vatrenog oružja kategorije B, kao i oružje i bitne dijelove kategorije C, sukladno odredbama ovog zakona.
+(2) Nakon prodaje oružja ili bitnih dijelova iz stavka (1) ovog članka, trgovac oružjem je dužan, u roku od osam dana od dana prodaje, pismeno obavijestiti nadležnu policijsku upravu o prodaji oružja ili bitnih dijelova.
+(3) Obavijest iz stavka (2) ovog članka sadrži: datum prodaje oružja ili bitnih dijelova, podatke o kupcu (ime i prezime, odnosno naziv i ID broj pravne osobe, datum i mjesto rođenja, država rođenja, jedinstveni matični broj i adresa), podatke o oružju (vrstu, marku, model, kalibar, serijski broj oružja i oznaku na njegovom kućištu ili uvodniku metaka), podatke o bitnim dijelovima (serijski broj ili jedinstvenu oznaku), naziv nadležnog organa koji je izdao odobrenje za nabavljanje i posjedovanje vatrenog oružja kategorije B, broj i datum odobrenja, serijski broj i datum izdavanja osobne karte i naziv organa koji je izdao osobnu kartu kupca.
+(4) Trgovac oružjem može prodavati municiju samo osobama koje imaju važeću ispravu o oružju.
+(5) Prilikom prodaje oružja trgovac oružja je dužan da zadrži jedan primjerak odobrenja za nabavljanje i posjedovanje oružja, a na drugi primjerak da stavi zabilješku o izvršenoj prodaji i ovjeri je štambiljem i potpisom odgovorne osobe.

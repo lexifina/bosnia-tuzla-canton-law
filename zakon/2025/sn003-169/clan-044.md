@@ -1,0 +1,7 @@
+Članak 44.
+(Postupanje sa pronađenim oružjem, bitnim dijelovima, municijom i ispravama o oružju)
+(1) Ko nađe oružje, bitne dijelove, municiju i isprave o oružju ili sazna za skriveno oružje, bitne dijelove i municiju dužan je o tome odmah obavijestiti najbližu policijsku stanicu koja, nakon zaprimanja obavijesti, poduzima sve neophodne mjere i radnje iz svoje nadležnosti s ciljem pronalaska vlasnika oružja, bitnih dijelova i isprava o oružju.
+(2) Obavijest o pronađenom oružju, bitnim dijelovima, municiji i ispravama o oružju objavljuje se na internet stranici Ministarstva.
+(3) Ukoliko se vlasnik pronađenog oružja, bitnih dijelova, municije i isprava o oružju ne javi nadležnoj policijskoj upravi u roku od 30 dana od dana obavješćivanja o pronalasku oružja, bitnih dijelova, municije ili isprava o oružju, nadležna policijska uprava će donijeti rješenje o oduzimanju oružja, bitnih dijelova, municije ili isprava o oružju. Nakon pravomoćnosti rješenja, oduzeto oružje i bitni dijelovi dostavljaju se Upravi policije radi stavljanja na raspolaganje ili uništenja.
+(4) Ukoliko se za pronađeno oružje, bitne dijelove i municiju ne utvrdi vlasnik nakon proteka jedne godine od dana pronalaska oružja, bitnih dijelova i municije, nadležna policijska uprava će donijeti rješenje o njegovom uništenju.
+(5) Rješenje o uništenju oružja, bitnih dijelova i municije iz stavka (4) ovog članka će se donijeti i u slučaju pronalaska oružja i bitnih dijelova iz članka 8. ovog zakona.

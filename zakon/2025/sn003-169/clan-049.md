@@ -1,0 +1,6 @@
+Članak 49.
+(Izvanredni zdravstveni pregled)
+(1) Fizičku osobu koja je vlasnik oružja, za koju postoji opravdana sumnja da više nije zdravstveno sposobna za držanje i nošenje oružja, nadležna policijska uprava uputit će na izvanredni zdravstveni pregled o čemu donosi rješenje.
+(2) Vlasnik oružja iz stavka (1) ovog članka dužan je, u roku 30 dana od dana prijema rješenja o upućivanju na izvanredni zdravstveni pregled, dostaviti nadležnoj policijskoj upravi uvjerenje o zdravstvenoj sposobnosti za držanje i nošenje oružja.
+(3) Troškove izvanrednog zdravstvenog pregleda vlasnika oružja iz stavka (1) ovog članka, koji je proglašen zdravstveno sposobnim za držanje i nošenje oružja, snosi Uprava policije. Troškove izvanrednog zdravstvenog pregleda snosi osoba iz stavka (1) ovog članka, ukoliko se na izvanrednom zdravstvenom pregledu utvrdi da nije zdravstveno sposobna za držanje i nošenje oružja.
+(4) Od vlasnika vatrenog oružja za koga je na zdravstvenom pregledu utvrđeno da je nesposoban za držanje i nošenje vatrenog oružja ili koji ne dostavi uvjerenje o zdravstvenoj sposobnosti za držanje vatrenog oružja u roku iz stavka (2) ovog članka, nadležna policijska uprava će rješenjem oduzeti vatreno oružje, bitne dijelove, municiju i isprave o oružju i postupiti sukladno odredbama članka 52. ovog zakona.
