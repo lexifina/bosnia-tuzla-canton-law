@@ -1,0 +1,6 @@
+Član 32.
+U članu 149. u stavu (1) iza riječi „provođenje,“ dodaju se riječi „a naročito u pogledu osnivanja i prestanka rada visokoškolskih ustanova, izdavanja i vođenja evidencija, javnih isprava i registara, rada organa visokoškolske ustanove, organizacije univerziteta, radnih odnosa, statusa studenata te organizacije ciklusa studija i izdavanja diploma,“.
+U istom članu iza stava (1) dodaju se novi stavovi (2) i (3), koji glase:
+„(2) Nadležna inspekcija za obrazovanje neće vršiti inspekcijski nadzor u vezi sa pitanjima i procedurama koji spadaju u domen akademske slobode i autonomije visokoškolske ustanove i akademskog osoblja, poput naučnog i istraživačkog rada, izvođenja nastave, provođenje izbora u naučno-nastavna zvanja i drugih pitanja koja su u domenu akademske slobode i autonomije povjerena organima visokoškolske ustanove i akademskom osoblju.
+(3) U slučaju potrebe, nadležna inspekcija za obrazovanje, po pitanjima iz stava (2) ovog člana, ostvaruje komunikaciju i postupa prema nadležnim organima visokoškolske ustanove, vodeći računa da se ne povrijedi akademska sloboda i autonomija visokoškolske ustanove i akademskog osoblja.“.
+Dosadašnji stavovi (2), (3) i (4) postaju stavovi (4), (5) i (6).
