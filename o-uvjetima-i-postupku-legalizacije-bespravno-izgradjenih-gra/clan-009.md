@@ -1,0 +1,5 @@
+Članak 9.
+(Legalizacija na prostoru bez prostorno-planskog dokumenta)
+(1) Iznimno od odredbe članka 8. ovog zakona, legalizacija bespravno izgrađene građevine koja se nalazi na prostoru za koji nije donesen odgovarajući prostorno-planski dokument, ili građevina nije planirana postojećim planskim dokumentom, može se izvršiti pod uvjetom da ta građevina zadovoljava uvjete iz članka 8. stavak (1) točke a), c) i d) i da se po svojoj namjeni, izgledu i položaju uklapa u sustav građevina na području na kojem se nalazi. Ukoliko se građevina nalazi u rudnom, odnosno eksploatacionom polju, potrebno je pribaviti mišljenje rudarskog poduzeća sukladno Zakonu o rudarstvu.
+(2) Rješenje o naknadnoj urbanističkoj suglasnosti bespravno izgrađene građevine iz stavka (1) ovog članka donosi se na temelju stručnog mišljenja posebne komisije koju imenuje Vlada Kantona, odnosno općinski načelnik/gradonačelnik.
+(3) U sastav komisije iz stavka (2) ovog članka, imenuju se stručnjaci iz oblasti inženjerstva (arhitektura, građevinarstvo, geologija i drugi) i prava.

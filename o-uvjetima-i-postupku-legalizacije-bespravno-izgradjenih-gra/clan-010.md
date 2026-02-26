@@ -1,0 +1,2 @@
+Članak 10.
+Za bespravno izgrađene infrastrukturne objekte (elektroenergetska postrojenja sa priključnim, nadzemnim i podzemnim, niskonaponskim i visokonaponskim vodovima, telefonski vodovi i instalacije, vodovodne, toplovodne, kanalizacione instalacije i sl.), naknadno odobrenje za građenje može se izdati na temelju izgrađenog stanja tih objekata na terenu, uz pisanu suglasnost vlasnika nekretnine, ovjerenu kod nadležnog organa, uz ispunjavanje i drugih uvjeta propisanih ovim zakonom.
