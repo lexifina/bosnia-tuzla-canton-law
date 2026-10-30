@@ -1,0 +1,75 @@
+{
+ "country": "BA-03",
+ "acts": [
+  {
+   "slug": "o-muzejskoj-djelatnosti",
+   "short": "Закон о музејској дјелатности",
+   "title": "Закон о музејској дјелатности",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.9-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-22",
+     "units": 50,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.9-2024.pdf",
+     "sha256": "f06b89e7795835462868619df339911fd00b9040bdb849f2f8f630419ff91857"
+    }
+   ]
+  },
+  {
+   "slug": "o-drzavnoj-sluzbi-u-tuzlanskom-kantonu",
+   "short": "Закон о државној служби у Тузланском кантону",
+   "title": "Закон о државној служби у Тузланском кантону",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.11-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 113,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.11-2024.pdf",
+     "sha256": "499fd7e52431483ea6af27d437fc43a08469619b6f577faa400c288b8e8658dc"
+    }
+   ]
+  },
+  {
+   "slug": "o-pozorisnoj-djelatnosti",
+   "short": "Закон о позоришној дјелатности",
+   "title": "Закон о позоришној дјелатности",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 44,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+     "sha256": "0c89580afc4935bddab80c16680482801578fe3ba6c0e41a54c292da3c4cce87"
+    }
+   ]
+  },
+  {
+   "slug": "o-osnivanju-javne-ustanove-institut-za-drustvena-i-religijsk",
+   "short": "Zakon o osnivanju javne ustanove institut za društvena i rel",
+   "title": "Zakon o osnivanju javne ustanove institut za društvena i religijska istraživanja u Tuzli",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 26,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+     "sha256": "ec0710c7feca1885190fe201ef4ba1ea626a7e4eed04966b23d117b6002df7cf"
+    }
+   ]
+  },
+  {
+   "slug": "o-uvjetima-i-postupku-legalizacije-bespravno-izgradjenih-gra",
+   "short": "Zakon o uvjetima i postupku legalizacije bespravno izgrađeni",
+   "title": "Zakon o uvjetima i postupku legalizacije bespravno izgrađenih građevina",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 31,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+     "sha256": "ec0710c7feca1885190fe201ef4ba1ea626a7e4eed04966b23d117b6002df7cf"
+    }
+   ]
+  }
+ ]
+}

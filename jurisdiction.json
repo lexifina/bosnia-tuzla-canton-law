@@ -1,0 +1,11 @@
+{
+  "path": "ba-03",
+  "code": "BA-03",
+  "name": "Tuzla Canton",
+  "level": "canton",
+  "parent": "ba-bih",
+  "repo": "https://github.com/lexifina/bosnia-tuzla-canton-law",
+  "build": "built: laws of 2024-2026 that nothing later amends, each as enacted or as the Assembly's official consolidated text, from the Službene novine Tuzlanskog kantona",
+  "language": "bs",
+  "sources": 1
+}
