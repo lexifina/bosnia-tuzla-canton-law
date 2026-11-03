@@ -8,10 +8,19 @@ Each law is in the language and script of the gazette edition it was published i
 
 ## What this repository holds
 
-Laws the Assembly of Tuzla Canton published in the Službene novine Tuzlanskog kantona from 2022 to July 2026 that no later law in those issues amends, repeals or consolidates, each in one of two forms:
+Six laws the Assembly of Tuzla Canton published in the Službene novine Tuzlanskog kantona from 2021 to July 2026 that no later law in those issues amends, repeals or consolidates, each in one of two forms:
 
 - the law as enacted, dated the day it took effect; or
 - an official consolidated text (prečišćeni tekst) established by the Assembly's Legislative Committee and published in the gazette, dated the day it was published (it applies from its publication, as its last article says). Earlier versions of these laws are not in the record yet.
+
+| Law | Version date | Text |
+| --- | --- | --- |
+| Zakon o radio-televiziji Tuzlanskog kantona | 3 December 2021 | Official consolidated text |
+| Закон о музејској дјелатности | 22 June 2024 | As enacted |
+| Закон о државној служби у Тузланском кантону | 8 August 2024 | Official consolidated text |
+| Закон о позоришној дјелатности | 15 July 2025 | As enacted |
+| Zakon o uvjetima i postupku legalizacije bespravno izgrađenih građevina | 26 February 2026 | Official consolidated text |
+| Zakon o osnivanju javne ustanove institut za društvena i religijska istraživanja u Tuzli | 6 March 2026 | As enacted |
 
 Not included yet: the Constitution of Tuzla Canton (the only free text found is marked unofficial); laws that were later amended and have no newer consolidated text; amending and budget laws; laws whose tables the two PDF readers order differently.
 
