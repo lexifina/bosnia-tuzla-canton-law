@@ -70,6 +70,20 @@
      "sha256": "ec0710c7feca1885190fe201ef4ba1ea626a7e4eed04966b23d117b6002df7cf"
     }
    ]
+  },
+  {
+   "slug": "o-radio-televiziji-tuzlanskog-kantona",
+   "short": "Zakon o radio-televiziji Tuzlanskog kantona",
+   "title": "Zakon o radio-televiziji Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR21-2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 54,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR21-2021.pdf",
+     "sha256": "1c90ad0e0b7ddd41a46dfeab711733b28993dd0a6df5409ce4ec1373954fafeb"
+    }
+   ]
   }
  ]
 }
