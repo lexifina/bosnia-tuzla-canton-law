@@ -1,0 +1,1100 @@
+{
+ "country": "BA-03",
+ "acts": [
+  {
+   "slug": "o-muzejskoj-djelatnosti",
+   "path": "o-muzejskoj-djelatnosti",
+   "short": "Закон о музејској дјелатности",
+   "title": "Закон о музејској дјелатности",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.9-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-22",
+     "units": 50,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.9-2024.pdf",
+     "sha256": "f06b89e7795835462868619df339911fd00b9040bdb849f2f8f630419ff91857"
+    }
+   ]
+  },
+  {
+   "slug": "o-drzavnoj-sluzbi-u-tuzlanskom-kantonu",
+   "path": "o-drzavnoj-sluzbi-u-tuzlanskom-kantonu",
+   "short": "Закон о државној служби у Тузланском кантону",
+   "title": "Закон о државној служби у Тузланском кантону",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.11-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 113,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.11-2024.pdf",
+     "sha256": "499fd7e52431483ea6af27d437fc43a08469619b6f577faa400c288b8e8658dc"
+    }
+   ]
+  },
+  {
+   "slug": "o-pozorisnoj-djelatnosti",
+   "path": "o-pozorisnoj-djelatnosti",
+   "short": "Закон о позоришној дјелатности",
+   "title": "Закон о позоришној дјелатности",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 44,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+     "sha256": "0c89580afc4935bddab80c16680482801578fe3ba6c0e41a54c292da3c4cce87"
+    }
+   ]
+  },
+  {
+   "slug": "o-osnivanju-javne-ustanove-institut-za-drustvena-i-religijsk",
+   "path": "o-osnivanju-javne-ustanove-institut-za-drustvena-i-religijsk",
+   "short": "Zakon o osnivanju javne ustanove institut za društvena i rel",
+   "title": "Zakon o osnivanju javne ustanove institut za društvena i religijska istraživanja u Tuzli",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 26,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+     "sha256": "ec0710c7feca1885190fe201ef4ba1ea626a7e4eed04966b23d117b6002df7cf"
+    }
+   ]
+  },
+  {
+   "slug": "o-uvjetima-i-postupku-legalizacije-bespravno-izgradjenih-gra",
+   "path": "o-uvjetima-i-postupku-legalizacije-bespravno-izgradjenih-gra",
+   "short": "Zakon o uvjetima i postupku legalizacije bespravno izgrađeni",
+   "title": "Zakon o uvjetima i postupku legalizacije bespravno izgrađenih građevina",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 31,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf",
+     "sha256": "ec0710c7feca1885190fe201ef4ba1ea626a7e4eed04966b23d117b6002df7cf"
+    }
+   ]
+  },
+  {
+   "slug": "o-radio-televiziji-tuzlanskog-kantona",
+   "path": "o-radio-televiziji-tuzlanskog-kantona",
+   "short": "Zakon o radio-televiziji Tuzlanskog kantona",
+   "title": "Zakon o radio-televiziji Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR21-2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 54,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR21-2021.pdf",
+     "sha256": "1c90ad0e0b7ddd41a46dfeab711733b28993dd0a6df5409ce4ec1373954fafeb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn012-316",
+   "path": "zakon/2010/sn012-316",
+   "short": "Zakon o preuzimanju zakona o državnoj službi u federaciji Bo",
+   "title": "Zakon o preuzimanju zakona o državnoj službi u federaciji Bosne i Hercegovine",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/SluzbeneNovineTK%2012-2010.pdf",
+   "versions": [
+    {
+     "from": "2010-10-02",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/SluzbeneNovineTK%2012-2010.pdf",
+     "sha256": "c95d59595d24cbdd4e9400daf25a48638e58296736442d8f25fa43dd0939a574"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn005-106",
+   "path": "zakon/2011/sn005-106",
+   "short": "Zakon o izmjenama zakona o unutarnjim poslovima Tuzlanskog k",
+   "title": "Zakon o izmjenama zakona o unutarnjim poslovima Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_5.pdf",
+   "versions": [
+    {
+     "from": "2011-04-20",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_5.pdf",
+     "sha256": "f5791c66b8a88dbd0902b4baa393dedfe476bef0e399a682d8abc8f87b2c1035"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn008-200",
+   "path": "zakon/2011/sn008-200",
+   "short": "Закон о измјенама и допунама закона о предшколском одгоју и",
+   "title": "Закон о измјенама и допунама закона о предшколском одгоју и образовању",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_8.pdf",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 12,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_8.pdf",
+     "sha256": "1f0daba6de8755488ee7da1188ad84d23b8e582141ca1ca91fe4a2e9d2c7e0aa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn010-242",
+   "path": "zakon/2011/sn010-242",
+   "short": "Закон о измјенама и допунама закона о условима и поступку ле",
+   "title": "Закон о измјенама и допунама закона о условима и поступку легализације бесправно изграђених грађевина",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_10.pdf",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 8,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_10.pdf",
+     "sha256": "1e3550b0071ad89f9cac6d7e9aaa76c359179bf36ec37d14cc49a520212d74a9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn011-332",
+   "path": "zakon/2011/sn011-332",
+   "short": "Закон о измјенама закона о набављању, држању и ношењу оружја",
+   "title": "Закон о измјенама закона о набављању, држању и ношењу оружја и муниције",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_11.pdf",
+   "versions": [
+    {
+     "from": "2011-07-16",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_11.pdf",
+     "sha256": "05c359b3c2172955caafd15bf0bbb9c34e5b6e8e93c4f7e512724b6cc0462f5e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn013-397",
+   "path": "zakon/2011/sn013-397",
+   "short": "Zakon o izmjeni i dopunama zakona o inspekcijama Tuzlanskog",
+   "title": "Zakon o izmjeni i dopunama zakona o inspekcijama Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_13.pdf",
+   "versions": [
+    {
+     "from": "2011-10-20",
+     "units": 9,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_13.pdf",
+     "sha256": "adae4dc9713ccae49be39acc146f84616a6cec8712170874cefdf73e62d5650b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sn002-65",
+   "path": "zakon/2012/sn002-65",
+   "short": "Zakon o izmjenama i dopunama zakona o unutarnjim poslovima T",
+   "title": "Zakon o izmjenama i dopunama zakona o unutarnjim poslovima Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_Novine_TK_broj_2.pdf",
+   "versions": [
+    {
+     "from": "2012-03-31",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_Novine_TK_broj_2.pdf",
+     "sha256": "90bf0cd50c7d53119785928a492da8f619809d7aefb4bd2058e130c968e61f47"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn003-214",
+   "path": "zakon/2013/sn003-214",
+   "short": "Zakon o izmjeni zakona o porezu na promet nepokretnosti i pr",
+   "title": "Zakon o izmjeni zakona o porezu na promet nepokretnosti i prava",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.3-2013.pdf",
+   "versions": [
+    {
+     "from": "2013-04-09",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.3-2013.pdf",
+     "sha256": "8702d548c1b0753c20da3b2b1fae9fb9e88d0c148d406441c9a8bdc33b97a9eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn004-271",
+   "path": "zakon/2013/sn004-271",
+   "short": "Zakon o izmjeni zakona o prostornom uređenju i građenju",
+   "title": "Zakon o izmjeni zakona o prostornom uređenju i građenju",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.4-2013.pdf",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.4-2013.pdf",
+     "sha256": "30df2c82b6be1df7d0ba7475387ef762b7f5ef23fc956958d766b5ece943690b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn008-300",
+   "path": "zakon/2013/sn008-300",
+   "short": "Закон о измјенама закона о спорту",
+   "title": "Закон о измјенама закона о спорту",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.8-2013.pdf",
+   "versions": [
+    {
+     "from": "2013-07-04",
+     "units": 9,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.8-2013.pdf",
+     "sha256": "c4c79ed842a89d991dcb88225cd96bd5c689f1375fb656e4c23b3080f368b2f9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn014-430",
+   "path": "zakon/2013/sn014-430",
+   "short": "Zakon o dopuni zakona o komunalnim djelatnostima",
+   "title": "Zakon o dopuni zakona o komunalnim djelatnostima",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2014%20-%202013.pdf",
+   "versions": [
+    {
+     "from": "2013-10-18",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2014%20-%202013.pdf",
+     "sha256": "5598b1113b8bc40cb08cfcd33306ac211dc3f32858fe210ee6317849fde0e10d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn016-572",
+   "path": "zakon/2013/sn016-572",
+   "short": "Zakon o izmjenama i dopunama zakona o visokom obrazovanju",
+   "title": "Zakon o izmjenama i dopunama zakona o visokom obrazovanju",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2016%20-%202013.pdf",
+   "versions": [
+    {
+     "from": "2013-12-06",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2016%20-%202013.pdf",
+     "sha256": "a35e67f6c747839c7ba86643072ee5fa1b96922b769966dc4674c174df7f0c8a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn017-614",
+   "path": "zakon/2013/sn017-614",
+   "short": "Zakon o izmjeni zakona o nabavljanju, držanju i nošenju oruž",
+   "title": "Zakon o izmjeni zakona o nabavljanju, držanju i nošenju oružja i municije",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.17-2013.pdf",
+   "versions": [
+    {
+     "from": "2013-12-12",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.17-2013.pdf",
+     "sha256": "9904693dc1a42510a7ba3fda5a06f50fb868df5d505e08bd76f1e183ebcb1940"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn002-116",
+   "path": "zakon/2014/sn002-116",
+   "short": "Zakon o prestanku važenja zakona o preuzimanju prava osnivač",
+   "title": "Zakon o prestanku važenja zakona o preuzimanju prava osnivača prema ro zavod za zdravstvenu zaštitu",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_2_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-02-22",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_2_2014.pdf",
+     "sha256": "55eeba308494e6ce69450031bfa8e6dbe9853253530cc72d3c87997507fd33ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn007-248",
+   "path": "zakon/2014/sn007-248",
+   "short": "Закон о измјенама закона о социјалној заштити, заштити цивил",
+   "title": "Закон о измјенама закона о социјалној заштити, заштити цивилних жртава рата и заштити породице с дјецом",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_7_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_7_2014.pdf",
+     "sha256": "61d60327ce6cd49ee492eb6b60d973147adfc045de66c057eb4293cfd5ea7522"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn007-249",
+   "path": "zakon/2014/sn007-249",
+   "short": "Закон о измјенама закона о високом образовању",
+   "title": "Закон о измјенама закона о високом образовању",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_7_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_7_2014.pdf",
+     "sha256": "61d60327ce6cd49ee492eb6b60d973147adfc045de66c057eb4293cfd5ea7522"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn011-410",
+   "path": "zakon/2014/sn011-410",
+   "short": "Закон о допуни закона о концесијама",
+   "title": "Закон о допуни закона о концесијама",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/Sluzbene_novine_TK_br_11_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-22",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/Sluzbene_novine_TK_br_11_2014.pdf",
+     "sha256": "b679f7afe8a4726157b2def572ee5b93c9f2b96b2625a2b0eba38942aad4ee5d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sn002-134",
+   "path": "zakon/2015/sn002-134",
+   "short": "Zakon o izmjeni zakona o šumama",
+   "title": "Zakon o izmjeni zakona o šumama",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/SluzbeneNovineTK%20BR.2-2015.pdf",
+   "versions": [
+    {
+     "from": "2015-03-27",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/SluzbeneNovineTK%20BR.2-2015.pdf",
+     "sha256": "5a733f7203123d425aff158e26ff9d59cc4ccef489002d0afcdbf97797a8a88f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn012-873",
+   "path": "zakon/2016/sn012-873",
+   "short": "Zakon o izmjeni zakona o koncesijama",
+   "title": "Zakon o izmjeni zakona o koncesijama",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_12_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-11-04",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_12_2016.pdf",
+     "sha256": "ee78e3839acda341ad7b8f460f5bb6841c0e1e8fd033f9d030835a9e2d680b81"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn012-874",
+   "path": "zakon/2016/sn012-874",
+   "short": "Zakon o izmjeni i dopuni zakona o porezu na promet nepokretn",
+   "title": "Zakon o izmjeni i dopuni zakona o porezu na promet nepokretnosti i prava",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_12_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-11-12",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_12_2016.pdf",
+     "sha256": "ee78e3839acda341ad7b8f460f5bb6841c0e1e8fd033f9d030835a9e2d680b81"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn011-404",
+   "path": "zakon/2017/sn011-404",
+   "short": "Закон о измјенама и допуни закона о пружању правне помоћи",
+   "title": "Закон о измјенама и допуни закона о пружању правне помоћи",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2011%20-%202017.pdf",
+   "versions": [
+    {
+     "from": "2017-08-12",
+     "units": 9,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2011%20-%202017.pdf",
+     "sha256": "918d0b1864728ada49de5f6f172bcb9834307f4f1b7f82001e38e98a4d0172b6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn010-471",
+   "path": "zakon/2018/sn010-471",
+   "short": "Закон о измјенама закона о оснивању јавне установе одгојни ц",
+   "title": "Закон о измјенама закона о оснивању јавне установе одгојни центар Тузланског кантона",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 9,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf",
+     "sha256": "c1abe7c712f757a811f94422b146aae12102d96ee5540279f3ca8f3a6bbc430b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn010-474",
+   "path": "zakon/2018/sn010-474",
+   "short": "Закон о измјенама закона о судским таксама",
+   "title": "Закон о измјенама закона о судским таксама",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf",
+   "versions": [
+    {
+     "from": "2018-06-21",
+     "units": 8,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf",
+     "sha256": "c1abe7c712f757a811f94422b146aae12102d96ee5540279f3ca8f3a6bbc430b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn011-523",
+   "path": "zakon/2018/sn011-523",
+   "short": "Закон о допунама закона о порезу на промет непокретности и п",
+   "title": "Закон о допунама закона о порезу на промет непокретности и права",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2011%20-%202018.pdf",
+   "versions": [
+    {
+     "from": "2018-07-14",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2011%20-%202018.pdf",
+     "sha256": "0bbdfc0886c9a3ca12ff4971c5aa0a1e5a2c3a424b982d212472e1a93fa3f81b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn014-673",
+   "path": "zakon/2018/sn014-673",
+   "short": "Zakon o dopunama zakona o državnoj službi u Tuzlanskom kanto",
+   "title": "Zakon o dopunama zakona o državnoj službi u Tuzlanskom kantonu",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2014%20-%202018.pdf",
+   "versions": [
+    {
+     "from": "2018-09-28",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2014%20-%202018.pdf",
+     "sha256": "504cdee74a2b65e726b2addf0ee8f46df3df5d3fb1e58f36b9aa2b6f6824e3c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sn013-573",
+   "path": "zakon/2019/sn013-573",
+   "short": "Zakon o izmjeni i dopunama zakona o porezu na promet nepokre",
+   "title": "Zakon o izmjeni i dopunama zakona o porezu na promet nepokretnosti i prava",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.13-2019.pdf",
+   "versions": [
+    {
+     "from": "2019-12-06",
+     "units": 8,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.13-2019.pdf",
+     "sha256": "340c100d18b9541a257ed96656896235ff7f6d565246dae7504d95c9dd01c011"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn005-299",
+   "path": "zakon/2021/sn005-299",
+   "short": "Zakon o porezu na promet nepokretnosti i prava",
+   "title": "Zakon o porezu na promet nepokretnosti i prava",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%205-2021.pdf",
+   "versions": [
+    {
+     "from": "2021-04-06",
+     "units": 42,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%205-2021.pdf",
+     "sha256": "e59f8cbb3b03ed7d1eed33850e3b3858cf18761e26afce462bc30e0b7153e4cb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn011-639",
+   "path": "zakon/2021/sn011-639",
+   "short": "Закон о измјени и допунама закона о основном одгоју и образо",
+   "title": "Закон о измјени и допунама закона о основном одгоју и образовању",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2011-2021.pdf",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2011-2021.pdf",
+     "sha256": "fa1a777e9b63b05754b0d6bfef07cf5eb57d132aff012637d0290fec1a4eb229"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn021-1103",
+   "path": "zakon/2021/sn021-1103",
+   "short": "Zakon o visokom obrazovanju",
+   "title": "Zakon o visokom obrazovanju",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR21-2021.pdf",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 177,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR21-2021.pdf",
+     "sha256": "1c90ad0e0b7ddd41a46dfeab711733b28993dd0a6df5409ce4ec1373954fafeb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn001-1",
+   "path": "zakon/2022/sn001-1",
+   "short": "Zakon o izmjenama i dopunama zakona o inspekcijama Tuzlansko",
+   "title": "Zakon o izmjenama i dopunama zakona o inspekcijama Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKbr.1-22.pdf",
+   "versions": [
+    {
+     "from": "2022-02-26",
+     "units": 20,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKbr.1-22.pdf",
+     "sha256": "bb61e65096e241205dc56ff54e1de8a307311ac2e4d0f341639014b01ff3e56c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn005-296",
+   "path": "zakon/2022/sn005-296",
+   "short": "Zakon o dopunama zakona o visokoj naobrazbi",
+   "title": "Zakon o dopunama zakona o visokoj naobrazbi",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbennovineTKBR5-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbennovineTKBR5-2022.pdf",
+     "sha256": "de557ba6a7a423701c2b2d9e7e6f33417ae7aec33d5527ef95b48acb94702dd9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-435",
+   "path": "zakon/2022/sn010-435",
+   "short": "Закон о измјенама и допунама закона о основном одгоју и обра",
+   "title": "Закон о измјенама и допунама закона о основном одгоју и образовању",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2010-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 20,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2010-2022.pdf",
+     "sha256": "a14460f27b974b29a8fc325b9d073313295ba3baba1ea7833692e29ffb30b409"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-437",
+   "path": "zakon/2022/sn010-437",
+   "short": "Закон о измјени и допуни закона о социјалној заштити, заштит",
+   "title": "Закон о измјени и допуни закона о социјалној заштити, заштити цивилних жртава рата и заштити породице са дјецом",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2010-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2010-2022.pdf",
+     "sha256": "a14460f27b974b29a8fc325b9d073313295ba3baba1ea7833692e29ffb30b409"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn010-438",
+   "path": "zakon/2022/sn010-438",
+   "short": "Закон о допуни закона о државној служби у Тузланском кантону",
+   "title": "Закон о допуни закона о државној служби у Тузланском кантону",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2010-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2010-2022.pdf",
+     "sha256": "a14460f27b974b29a8fc325b9d073313295ba3baba1ea7833692e29ffb30b409"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn011-482",
+   "path": "zakon/2022/sn011-482",
+   "short": "Закон о измјенама и допуни закона о оснивању јавне установе",
+   "title": "Закон о измјенама и допуни закона о оснивању јавне установе завод за одгој и образовање особа са сметњама у психичком и тјелесном развоју",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf",
+     "sha256": "17be3f9c4b27c68c7fefebee9e725a6a2153dfd9bdab3d779e8752ea4dc29e7d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn011-484",
+   "path": "zakon/2022/sn011-484",
+   "short": "Закон о допуни закона о основном одгоју и образовању",
+   "title": "Закон о допуни закона о основном одгоју и образовању",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf",
+   "versions": [
+    {
+     "from": "2022-06-17",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf",
+     "sha256": "17be3f9c4b27c68c7fefebee9e725a6a2153dfd9bdab3d779e8752ea4dc29e7d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn014-674",
+   "path": "zakon/2022/sn014-674",
+   "short": "Закон о измјенама закона о социјалној заштити, заштити цивил",
+   "title": "Закон о измјенама закона о социјалној заштити, заштити цивилних жртава рата и заштити породице са дјецом",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKBR142022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKBR142022.pdf",
+     "sha256": "50aef5e003dabd7c05604d2a98a79f22e8e3b6928f5257304527ad8a2099a96f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn014-677",
+   "path": "zakon/2022/sn014-677",
+   "short": "Закон о измјени закона о допунским правима бранилаца и члано",
+   "title": "Закон о измјени закона о допунским правима бранилаца и чланова њихових породица",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKBR142022.pdf",
+   "versions": [
+    {
+     "from": "2022-07-26",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKBR142022.pdf",
+     "sha256": "50aef5e003dabd7c05604d2a98a79f22e8e3b6928f5257304527ad8a2099a96f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn019-1124",
+   "path": "zakon/2022/sn019-1124",
+   "short": "Zakon o izmjeni zakona o plaćama i naknadama državnih službe",
+   "title": "Zakon o izmjeni zakona o plaćama i naknadama državnih službenika, namještenika i drugih lica zaposlenih u organima državne službe Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2019-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2019-2022.pdf",
+     "sha256": "7bf27da0a81844ea0e2e396d5c71192f284a4b0fa4222926d6d0ab1b49731864"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn019-1125",
+   "path": "zakon/2022/sn019-1125",
+   "short": "Zakon o izmjeni zakona o oružju i municiji",
+   "title": "Zakon o izmjeni zakona o oružju i municiji",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2019-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-05",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2019-2022.pdf",
+     "sha256": "7bf27da0a81844ea0e2e396d5c71192f284a4b0fa4222926d6d0ab1b49731864"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn005-414",
+   "path": "zakon/2023/sn005-414",
+   "short": "Zakon o dopunama zakona o porezu na promet nepokretnosti i p",
+   "title": "Zakon o dopunama zakona o porezu na promet nepokretnosti i prava",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR5-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR5-2023.pdf",
+     "sha256": "be7acf5e4041defdb2fee41d481e29a50397bc931f350cbeb73b240f5a560146"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn009-593",
+   "path": "zakon/2023/sn009-593",
+   "short": "Закон о допунама закона о научноистраживачком раду",
+   "title": "Закон о допунама закона о научноистраживачком раду",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR9-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-06-13",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR9-2023.pdf",
+     "sha256": "8603de48b79ff7e906a30fa460ecd71465ea60b7f165268b5e281c5aaf6874b1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn012-742",
+   "path": "zakon/2023/sn012-742",
+   "short": "Закон о употреби знаковног језика у Тузланском кантону",
+   "title": "Закон о употреби знаковног језика у Тузланском кантону",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR12-20223.pdf",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 45,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR12-20223.pdf",
+     "sha256": "6125ee8f648abca5e54437e5e8ded6cbd0ba5bd2ab6253e37f0075bbc8982df4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn012-743",
+   "path": "zakon/2023/sn012-743",
+   "short": "Закон о измјенама закона о робним резервама Тузланског канто",
+   "title": "Закон о измјенама закона о робним резервама Тузланског кантона",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR12-20223.pdf",
+   "versions": [
+    {
+     "from": "2023-08-10",
+     "units": 8,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR12-20223.pdf",
+     "sha256": "6125ee8f648abca5e54437e5e8ded6cbd0ba5bd2ab6253e37f0075bbc8982df4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn017-980",
+   "path": "zakon/2023/sn017-980",
+   "short": "Zakon o izmjenama zakona o državnoj službi u Tuzlanskom kant",
+   "title": "Zakon o izmjenama zakona o državnoj službi u Tuzlanskom kantonu",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTK%20BR.17-20223.pdf",
+   "versions": [
+    {
+     "from": "2023-11-11",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTK%20BR.17-20223.pdf",
+     "sha256": "3829b2da58699bf88e1b6c7e9a157cb4c5a159658735024d17960c8ddae54f5b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn017-981",
+   "path": "zakon/2023/sn017-981",
+   "short": "Zakon o izmjenama zakona o uslovima i postupku legalizacije",
+   "title": "Zakon o izmjenama zakona o uslovima i postupku legalizacije bespravno izgrađenih građevina",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTK%20BR.17-20223.pdf",
+   "versions": [
+    {
+     "from": "2023-11-11",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTK%20BR.17-20223.pdf",
+     "sha256": "3829b2da58699bf88e1b6c7e9a157cb4c5a159658735024d17960c8ddae54f5b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn005-334",
+   "path": "zakon/2024/sn005-334",
+   "short": "Zakon o izmjenama i dopunama zakona o značajnim datumima i l",
+   "title": "Zakon o izmjenama i dopunama zakona o značajnim datumima i ličnostima na području Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.5-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-13",
+     "units": 9,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.5-2024.pdf",
+     "sha256": "d61d1a3df026d2df676cc019d6d0800441ee6da898f46dd54e739cd75b1fc4d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn005-337",
+   "path": "zakon/2024/sn005-337",
+   "short": "Zakon o izmjenama i dopuni zakona o zaštiti akumulacije „mod",
+   "title": "Zakon o izmjenama i dopuni zakona o zaštiti akumulacije „modrac“",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.5-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-06",
+     "units": 9,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.5-2024.pdf",
+     "sha256": "d61d1a3df026d2df676cc019d6d0800441ee6da898f46dd54e739cd75b1fc4d4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn007-441",
+   "path": "zakon/2024/sn007-441",
+   "short": "Закон о измјенама и допунама закона о заштити и спашавању љу",
+   "title": "Закон о измјенама и допунама закона о заштити и спашавању људи и материјалних добара од природних и других несрећа у Тузланском кантону",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.7-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.7-2024.pdf",
+     "sha256": "98fbfe6d02a939eaf83ab6dc3564c014877f6df2b80658a870d97212e5cbf101"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn007-443",
+   "path": "zakon/2024/sn007-443",
+   "short": "Закон о измјени закона о оснивању јавне установе завод за од",
+   "title": "Закон о измјени закона о оснивању јавне установе завод за одгој и образовање особа са сметњама у психичком и тјелесном развоју",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.7-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.7-2024.pdf",
+     "sha256": "98fbfe6d02a939eaf83ab6dc3564c014877f6df2b80658a870d97212e5cbf101"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn008-496",
+   "path": "zakon/2024/sn008-496",
+   "short": "Закон о измјени закона о платама и накнадама изабраних дужно",
+   "title": "Закон о измјени закона о платама и накнадама изабраних дужносника, носилаца извршних функција и савјетника у органима законодавне и извршне власти Тузланског кантона",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.8-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-13",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.8-2024.pdf",
+     "sha256": "314e5e3edcdfdfbf92b96fcd7b71d36176a252d42d60364ee4fdb2a541aaa4d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn010-578",
+   "path": "zakon/2024/sn010-578",
+   "short": "Закон о допуни закона о новчаним подршкама у пољопривреди и",
+   "title": "Закон о допуни закона о новчаним подршкама у пољопривреди и руралном развоју Тузланског кантона",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.10-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.10-2024.pdf",
+     "sha256": "b7c61cc93a5e54c41d06f743405221086b506ff31d70aa68c866a39a3a25749a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn013-811",
+   "path": "zakon/2024/sn013-811",
+   "short": "Zakon o izmjeni zakona o dopunskim pravima branilaca i člano",
+   "title": "Zakon o izmjeni zakona o dopunskim pravima branilaca i članova njihovih porodica",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.13-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.13-2024.pdf",
+     "sha256": "d51643ec136109b89a064c6d7ec531caf2c1a573cb379587c2bda99f5d2f446b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn002-167",
+   "path": "zakon/2025/sn002-167",
+   "short": "Zakon o izmjeni i dopuni zakona o znanstvenoistraživačkom ra",
+   "title": "Zakon o izmjeni i dopuni zakona o znanstvenoistraživačkom radu",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_2-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_2-2025.pdf",
+     "sha256": "3c466d57bd1e784ab9e9a0f9c3abaf6c2e17ee47e6d635ea1d60603a90b57213"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn003-169",
+   "path": "zakon/2025/sn003-169",
+   "short": "Zakon o oružju i municiji",
+   "title": "Zakon o oružju i municiji",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_3-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 94,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_3-2025.pdf",
+     "sha256": "f64b8036b8148b72877e2bf93f5ed2e540ea09346681c5c43f045cf4d3f1613b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn005-324",
+   "path": "zakon/2025/sn005-324",
+   "short": "Zakon o izmjeni i dopuni zakona o uvjetima i postupku legali",
+   "title": "Zakon o izmjeni i dopuni zakona o uvjetima i postupku legalizacije bespravno izgrađenih građevina",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-29",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf",
+     "sha256": "0c516e108a0d70fb8684e347002ef1ef4eb1d09160bb656866536518017aebaf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn005-325",
+   "path": "zakon/2025/sn005-325",
+   "short": "Zakon o dopunama zakona o porezu na promet nepokretnosti i p",
+   "title": "Zakon o dopunama zakona o porezu na promet nepokretnosti i prava",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-29",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf",
+     "sha256": "0c516e108a0d70fb8684e347002ef1ef4eb1d09160bb656866536518017aebaf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn005-329",
+   "path": "zakon/2025/sn005-329",
+   "short": "Zakon o dopunama zakona o visokoj naobrazbi",
+   "title": "Zakon o dopunama zakona o visokoj naobrazbi",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-03-22",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf",
+     "sha256": "0c516e108a0d70fb8684e347002ef1ef4eb1d09160bb656866536518017aebaf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn010-540",
+   "path": "zakon/2025/sn010-540",
+   "short": "Закон о измјени и допуни закона о оснивању јавне установе за",
+   "title": "Закон о измјени и допуни закона о оснивању јавне установе завод за одгој и образовање особа са сметњама у психичком и тјелесном развоју у Тузли",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 5,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+     "sha256": "0c89580afc4935bddab80c16680482801578fe3ba6c0e41a54c292da3c4cce87"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn010-541",
+   "path": "zakon/2025/sn010-541",
+   "short": "Закон о измјени закона о министарствима и другим органима уп",
+   "title": "Закон о измјени закона о министарствима и другим органима управе Тузланског кантона",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 7,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_10-2025.pdf",
+     "sha256": "0c89580afc4935bddab80c16680482801578fe3ba6c0e41a54c292da3c4cce87"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn012-689",
+   "path": "zakon/2025/sn012-689",
+   "short": "Закон о здравственој заштити Тузланског кантона",
+   "title": "Закон о здравственој заштити Тузланског кантона",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_12-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 226,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_12-2025.pdf",
+     "sha256": "1bce3c339fd5a30df737c8336ec28a6df8c55c6a220f1b28f5be58e814639322"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-sn014-748",
+   "path": "zakon/2025/sn014-748",
+   "short": "Zakon o izmjenama i dopunama zakona o visokom obrazovanju",
+   "title": "Zakon o izmjenama i dopunama zakona o visokom obrazovanju",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_14-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-18",
+     "units": 43,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_14-2025.pdf",
+     "sha256": "3d5dbe86ac04c8709dee3155d01aa7d031791beb1f07a03419506418f3afa00c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn002-134",
+   "path": "zakon/2026/sn002-134",
+   "short": "Zakon o dopuni zakona o promjeni namjene poljoprivrednog zem",
+   "title": "Zakon o dopuni zakona o promjeni namjene poljoprivrednog zemljišta",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_2-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_2-2026.pdf",
+     "sha256": "dcfa771166d60aebe7e3b5746c672535eea2b8b4255402bb44499531f69f9656"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn002-135",
+   "path": "zakon/2026/sn002-135",
+   "short": "Zakon o izmjenama i dopuni zakona o zdravstvenoj zaštiti Tuz",
+   "title": "Zakon o izmjenama i dopuni zakona o zdravstvenoj zaštiti Tuzlanskog kantona",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_2-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 6,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_2-2026.pdf",
+     "sha256": "dcfa771166d60aebe7e3b5746c672535eea2b8b4255402bb44499531f69f9656"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn007-511",
+   "path": "zakon/2026/sn007-511",
+   "short": "Закон о измјенама и допунама закона о просторном уређењу и г",
+   "title": "Закон о измјенама и допунама закона о просторном уређењу и грађењу",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_7-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-15",
+     "units": 10,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_7-2026.pdf",
+     "sha256": "c2938abe6f0d6599fbb076fa61559346e884102adb339fed1f8aadbdef0840bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn008-537",
+   "path": "zakon/2026/sn008-537",
+   "short": "Закон о допунским правима бранилаца и чланова њихових породи",
+   "title": "Закон о допунским правима бранилаца и чланова њихових породица (трећи пречишћени текст)",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_8-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 70,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_8-2026.pdf",
+     "sha256": "b91415bc277586e496355f581786de51ccee3a284b44198667b2015d9f3d3641"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-sn010-693",
+   "path": "zakon/2026/sn010-693",
+   "short": "Закон о измјенама и допунама закона о оружју и муницији",
+   "title": "Закон о измјенама и допунама закона о оружју и муницији",
+   "url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_10-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-07-18",
+     "units": 18,
+     "source_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_10-2026.pdf",
+     "sha256": "d7cb1bc0286f582750164fd977c5b6ac9ea76c838899a8eba2e43e94a53a4ceb"
+    }
+   ]
+  }
+ ]
+}

@@ -117,3 +117,5 @@
 | Члан 111. | [clan-111.md](clan-111.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-drzavnoj-sluzbi-u-tuzlanskom-kantonu` (tags `o-drzavnoj-sluzbi-u-tuzlanskom-kantonu/<day>`; `python registry/tools/on.py <day> o-drzavnoj-sluzbi-u-tuzlanskom-kantonu`).

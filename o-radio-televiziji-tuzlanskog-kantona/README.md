@@ -58,3 +58,5 @@ Zakon o radio-televiziji Tuzlanskog kantona · 1 versions, from 2021-12-03 (late
 | Član 52. | [clan-052.md](clan-052.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-radio-televiziji-tuzlanskog-kantona` (tags `o-radio-televiziji-tuzlanskog-kantona/<day>`; `python registry/tools/on.py <day> o-radio-televiziji-tuzlanskog-kantona`).

@@ -35,3 +35,5 @@ Zakon o uvjetima i postupku legalizacije bespravno izgrađeni · 1 versions, fro
 | Članak 29. | [clan-029.md](clan-029.md) | 0 |  |
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-uvjetima-i-postupku-legalizacije-bespravno-izgradjenih-gra` (tags `o-uvjetima-i-postupku-legalizacije-bespravno-izgradjenih-gra/<day>`; `python registry/tools/on.py <day> o-uvjetima-i-postupku-legalizacije-bespravno-izgradjenih-gra`).

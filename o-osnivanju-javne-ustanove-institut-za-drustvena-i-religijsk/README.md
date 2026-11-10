@@ -30,3 +30,5 @@ Zakon o osnivanju javne ustanove institut za društvena i rel · 1 versions, fro
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-osnivanju-javne-ustanove-institut-za-drustvena-i-religijsk` (tags `o-osnivanju-javne-ustanove-institut-za-drustvena-i-religijsk/<day>`; `python registry/tools/on.py <day> o-osnivanju-javne-ustanove-institut-za-drustvena-i-religijsk`).

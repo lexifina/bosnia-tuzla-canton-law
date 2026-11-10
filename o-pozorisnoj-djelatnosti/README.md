@@ -48,3 +48,5 @@
 | Naslov | [naslov.md](naslov.md) | 0 |  |
 | Potpis | [potpis.md](potpis.md) | 0 |  |
 | Uvod | [uvod.md](uvod.md) | 0 |  |
+
+Act id: `o-pozorisnoj-djelatnosti` (tags `o-pozorisnoj-djelatnosti/<day>`; `python registry/tools/on.py <day> o-pozorisnoj-djelatnosti`).
