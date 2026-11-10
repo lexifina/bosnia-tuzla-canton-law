@@ -12,9 +12,9 @@ Each law is in the language and script of the gazette edition it was published i
 
 The canton publishes the Službene novine Tuzlanskog kantona on its site for 1994 to 2026; every issue listed there is read. Of the 313 Assembly laws the reader finds in them, 73 are here (from 2010), as:
 
-- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (5 laws added on 2026-11-09);
-- amending laws, each as an act of its own (61 added on 2026-11-09);
-- official consolidated texts (prečišćeni tekst), dated the day of their issue (3 added on 2026-11-09).
+- the law as enacted, dated the day it took effect; where later laws in the gazette amend it and no official consolidated text has been published since, it is marked `amended, not consolidated` and the amending laws are named (0 laws added on 2026-11-09);
+- amending laws, each as an act of its own (0 added on 2026-11-09);
+- official consolidated texts (prečišćeni tekst), dated the day of their issue (0 added on 2026-11-09).
 
 The first build (October 2026) holds its laws in folders named after them; laws added later are in `zakon/<year>/sn<issue>-<act number>/`, indexed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json).
 
@@ -44,10 +44,11 @@ The Assembly of Tuzla Canton (Skupština Tuzlanskog kantona), <https://skupstina
 
 The author of a commit is the law that made it, named by its gazette number, with an e-mail address that cannot exist (`<key>@skupstinatk.gov.ba.invalid`). The committer is always Lexifina.
 
+
 ## Freshness
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-09; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-10; 100% of acts verified in the last 7 days, 100% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
 `python tools/freshness.py <act>` gives an act's status, its last check and the official link. A refresh runner re-reads the canton's list of gazette issues every day (at most two requests a second), reads every new issue, appends new laws and writes these files; [data/status.json](data/status.json) says whether updates are running and whether the source is answering. Acts a later law amends with no official consolidated text are marked `amended, not consolidated` and name the amending laws ([registry/data/acts.json](registry/data/acts.json)); laws and gazette years held back are listed with the reason in [data/held.json](data/held.json), and laws published but not yet in force in [data/pending.json](data/pending.json). Statuses and fields: [data/freshness.json](data/freshness.json).

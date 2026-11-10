@@ -1,17 +1,17 @@
 {
  "note": "Update status of this repository, refreshed by every refresh run.",
- "as_of": "2026-11-10T09:15:45+00:00",
+ "as_of": "2026-11-10T09:22:47+00:00",
  "updates": "idle",
- "last_published": "2026-11-06T21:22:16Z",
+ "last_published": "2026-11-10T09:15:46Z",
  "published_last_24h": {
-  "commits": 0
+  "commits": 1
  },
  "official_sources": [
   {
    "source": "Službene novine Tuzlanskog kantona",
    "url": "https://skupstinatk.gov.ba/sluzbene-novine-tk",
    "state": "available",
-   "last_successful_contact": "2026-11-09"
+   "last_successful_contact": "2026-11-10"
   }
  ]
 }
