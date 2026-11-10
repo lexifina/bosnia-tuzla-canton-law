@@ -1,0 +1,2334 @@
+{
+"note": "In-scope acts held back from main, with the reason and the official page.",
+"count": 264,
+"acts": [
+{
+"act": "law no. 47",
+"gazette": "Službene novine Tuzlanskog kantona 3/2005",
+"date": "2005-10-26",
+"act_no": 47,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/Sluzbene%203%20-%202010.pdf"
+},
+{
+"act": "O PROGLAŠENJU DIJELA PODRUČJA PLANINE KONJUH ZAŠTIĆENIM PEJZAŽOM „KONJUH“",
+"gazette": "Službene novine Tuzlanskog kantona 13/2009",
+"date": "2009-12-07",
+"act_no": 509,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2009/kanton13-09.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O DOPUNSKIM PRAVIMA BRANILACA I ČLANOVA NJIHOVIH PORODICA",
+"gazette": "Službene novine Tuzlanskog kantona 13/2009",
+"date": "2009-12-07",
+"act_no": 510,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2009/kanton13-09.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O RADIO-TELEVIZIJI TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 13/2009",
+"date": "2009-12-07",
+"act_no": 511,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2009/kanton13-09.pdf"
+},
+{
+"act": "O POREZU NA IMOVINU, NASLJEĐE I POKLON",
+"gazette": "Službene novine Tuzlanskog kantona 14/2009",
+"date": "2009-12-17",
+"act_no": 539,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2009/kanton14-09.pdf"
+},
+{
+"act": "O ZAŠTITI PRAVA PRIPADNIKA NACIONALNIH MANJINA U TUZLANSKOM KANTONU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2009",
+"date": "2009-12-17",
+"act_no": 540,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2009/kanton14-09.pdf"
+},
+{
+"act": "O PRESTANKU VAŽENJA ZAKONA O OBRTU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2009",
+"date": "2009-12-17",
+"act_no": 541,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2009/kanton14-09.pdf"
+},
+{
+"act": "O UNUTARNJIM POSLOVIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 4/2010",
+"date": "2010-04-12",
+"act_no": 62,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/Sluzbene_TK_broj_4.pdf"
+},
+{
+"act": "law no. 63",
+"gazette": "Službene novine Tuzlanskog kantona 4/2010",
+"date": "2010-04-12",
+"act_no": 63,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-009",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/Sluzbene_TK_broj_4.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O SUDSKIM TAKSAMA",
+"gazette": "Službene novine Tuzlanskog kantona 4/2010",
+"date": "2010-04-12",
+"act_no": 64,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/Sluzbene_TK_broj_4.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O NABAVLJANJU, DRŽANJU I NOŠENJU ORUŽJA",
+"gazette": "Službene novine Tuzlanskog kantona 4/2010",
+"date": "2010-04-12",
+"act_no": 65,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/Sluzbene_TK_broj_4.pdf"
+},
+{
+"act": "O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2011. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 4/2011",
+"date": "2011-03-31",
+"act_no": 105,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_4.pdf"
+},
+{
+"act": "O PROSTORNOM UREĐENJU I GRAĐENJU OPĆE ODREDBE",
+"gazette": "Službene novine Tuzlanskog kantona 6/2011",
+"date": "2011-04-30",
+"act_no": 126,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_6.pdf"
+},
+{
+"act": "O OSNIVANJU JAVNE USTANOVE ZAŠTIĆENI PEJZAŽ „KONJUH“",
+"gazette": "Službene novine Tuzlanskog kantona 6/2011",
+"date": "2011-04-30",
+"act_no": 127,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_6.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O KONCESIJAMA",
+"gazette": "Službene novine Tuzlanskog kantona 6/2011",
+"date": "2011-04-30",
+"act_no": 128,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_6.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О МИНИСТАРСТВИМА И ДРУГИМ ОРГАНИМА УПРАВЕ ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 8/2011",
+"date": "2011-06-22",
+"act_no": 201,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_8.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O VLADI TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 13/2011",
+"date": "2011-10-12",
+"act_no": 398,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O POZORIŠNOJ DJELATNOSTI",
+"gazette": "Službene novine Tuzlanskog kantona 13/2011",
+"date": "2011-10-12",
+"act_no": 399,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O MUZEJSKOJ DJELATNOSTI",
+"gazette": "Službene novine Tuzlanskog kantona 13/2011",
+"date": "2011-10-12",
+"act_no": 400,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_13.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o arhivskoj djelatnosti",
+"gazette": "Službene novine Tuzlanskog kantona 13/2011",
+"date": "2011-10-12",
+"act_no": 401,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_13.pdf"
+},
+{
+"act": "O GEOLOŠKIM ISTRAŽIVANJIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2011",
+"date": "2011-11-11",
+"act_no": 489,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_14.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM REDU I MIRU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2011",
+"date": "2011-11-11",
+"act_no": 491,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_14.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O UNUTRAŠNJIM POSLOVIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2011",
+"date": "2011-11-11",
+"act_no": 492,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_14.pdf"
+},
+{
+"act": "O PRESTANKU VAŽENJA ZAKONA O ZAŠTITI OKOLICE",
+"gazette": "Službene novine Tuzlanskog kantona 14/2011",
+"date": "2011-11-11",
+"act_no": 493,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_14.pdf"
+},
+{
+"act": "O CESTOVNOM PRIJEVOZU NA PODRUČJU TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 15/2011",
+"date": "2011-12-19",
+"act_no": 537,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_15.pdf"
+},
+{
+"act": "law no. 538",
+"gazette": "Službene novine Tuzlanskog kantona 15/2011",
+"date": "2011-12-19",
+"act_no": 538,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_15.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o bibliotečkoj djelatnosti",
+"gazette": "Službene novine Tuzlanskog kantona 15/2011",
+"date": "2011-12-19",
+"act_no": 539,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_15.pdf"
+},
+{
+"act": "o izmjenama Zakona o raseljenim osobama i povratnicima u Tuzlanski kanton i izbjeglicama iz Bosne i Hercegovine",
+"gazette": "Službene novine Tuzlanskog kantona 15/2011",
+"date": "2011-12-19",
+"act_no": 540,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_15.pdf"
+},
+{
+"act": "O PRESTANKU VAŽENJA ZAKONA O INSPEKCIJI ZA OBRAZOVANJE",
+"gazette": "Službene novine Tuzlanskog kantona 15/2011",
+"date": "2011-12-19",
+"act_no": 541,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_15.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 16/2011",
+"date": "2011-12-23",
+"act_no": 592,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_16.pdf"
+},
+{
+"act": "O SREDNJEM OBRAZOVANJU I ODGOJU",
+"gazette": "Službene novine Tuzlanskog kantona 17/2011",
+"date": "2011-12-28",
+"act_no": 629,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_17.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVNOM ODGOJU I OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 17/2011",
+"date": "2011-12-28",
+"act_no": 630,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_17.pdf"
+},
+{
+"act": "law no. 631",
+"gazette": "Službene novine Tuzlanskog kantona 17/2011",
+"date": "2011-12-28",
+"act_no": 631,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2011/Sluzbene_TK_broj_17.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNIVANJU JAVNE USTANOVE ZAVOD ZA ODGOJ I NAOBRAZBU OSOBA SA SMETNJAMA U PSIHIČKOM I TJELESNOM RAZVOJU U TUZLI",
+"gazette": "Službene novine Tuzlanskog kantona 2/2012",
+"date": "2012-03-23",
+"act_no": 66,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_Novine_TK_broj_2.pdf"
+},
+{
+"act": "O PRESTANKU VAŽENJA ZAKONA O RADU",
+"gazette": "Službene novine Tuzlanskog kantona 2/2012",
+"date": "2012-03-23",
+"act_no": 67,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_Novine_TK_broj_2.pdf"
+},
+{
+"act": "O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2012. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 3/2012",
+"date": "2012-03-31",
+"act_no": 228,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj__3.pdf"
+},
+{
+"act": "O dopunskim PRAVIMA BRANITELJA I članova NJIHOVIH OBITELJI",
+"gazette": "Službene novine Tuzlanskog kantona 5/2012",
+"date": "2012-04-30",
+"act_no": 342,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_5.pdf"
+},
+{
+"act": "O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA I ZAŠTITI OBITELJI S DJECOM",
+"gazette": "Službene novine Tuzlanskog kantona 5/2012",
+"date": "2012-04-30",
+"act_no": 343,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_5.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ИНСПЕКЦИЈАМА ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 8/2012",
+"date": "2012-07-12",
+"act_no": 505,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_8.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNIM DJELATNOSTIMA",
+"gazette": "Službene novine Tuzlanskog kantona 8/2012",
+"date": "2012-07-12",
+"act_no": 506,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_8.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O RADIO-TELEVIZIJI TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 8/2012",
+"date": "2012-07-12",
+"act_no": 507,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_8.pdf"
+},
+{
+"act": "О ШУМАМА",
+"gazette": "Službene novine Tuzlanskog kantona 9/2012",
+"date": "2012-08-03",
+"act_no": 570,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_9.pdf"
+},
+{
+"act": "о преузимању дијела оснивачких права и обавеза над Центром за рехабилитацију овисника о психоактивним супстанцама Смолућа",
+"gazette": "Službene novine Tuzlanskog kantona 9/2012",
+"date": "2012-08-03",
+"act_no": 571,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_9.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СУДСКИМ ТАКСАМА",
+"gazette": "Službene novine Tuzlanskog kantona 9/2012",
+"date": "2012-08-03",
+"act_no": 572,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_9.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА ЗАКОНА О ОСНИВАЊУ ЈАВНОГ ПРЕДУЗЕЋА „МЕЂУНАРОДНИ АЕРОДРОМ ТУЗЛА“",
+"gazette": "Službene novine Tuzlanskog kantona 9/2012",
+"date": "2012-08-03",
+"act_no": 573,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_9.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU SANKCIJA",
+"gazette": "Službene novine Tuzlanskog kantona 12/2012",
+"date": "2012-11-13",
+"act_no": 858,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/SluzbeneNovineTK_12-2012.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O VISOKOM OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 13/2012",
+"date": "2012-11-30",
+"act_no": 904,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_13.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2012. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 13/2012",
+"date": "2012-11-30",
+"act_no": 906,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_novine_TK_broj_13.pdf"
+},
+{
+"act": "O JAVNO-PRIVATNOM PARTNERSTVU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2012",
+"date": "2012-12-18",
+"act_no": 907,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/SluzbeneNovineTK%2014-2012.pdf"
+},
+{
+"act": "O PRIVREMENOM FINANSIRAWU TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 5/2013",
+"date": "2013-05-16",
+"act_no": 291,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK_BR.5-2013.pdf"
+},
+{
+"act": "law no. 301",
+"gazette": "Službene novine Tuzlanskog kantona 8/2013",
+"date": "2013-07-03",
+"act_no": 301,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.8-2013.pdf"
+},
+{
+"act": "law no. 302",
+"gazette": "Službene novine Tuzlanskog kantona 8/2013",
+"date": "2013-07-03",
+"act_no": 302,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.8-2013.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ПРЕДШКОЛСКОМ ОДГОЈУ И ОБРАЗОВАЊУ",
+"gazette": "Službene novine Tuzlanskog kantona 10/2013",
+"date": "2013-07-25",
+"act_no": 375,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/sluzbene%20novine%20tk%20br.%2010%20-%202013.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ИЗВРШЕЊУ БУЏЕТА ТУЗЛАНСКОГ КАНТОНА ЗА 2013. ГОДИНУ",
+"gazette": "Službene novine Tuzlanskog kantona 11/2013",
+"date": "2013-07-26",
+"act_no": 396,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/sluzbene%20novine%20tk%20br.%2011%20-%202013.pdf"
+},
+{
+"act": "О ОСНИВАЊУ ЈАВНЕ УСТАНОВЕ ДИРЕКЦИЈА РЕГИОНАЛНИХ ЦЕСТА ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 12/2013",
+"date": "2013-08-01",
+"act_no": 397,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/sluzbene%20novine%20tk%20br.%2012%20-%202013.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PROSTORNOM UREĐENJU I GRAĐENJU",
+"gazette": "Službene novine Tuzlanskog kantona 15/2013",
+"date": "2013-11-18",
+"act_no": 517,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2015%20-%202013.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o kantonalnim administrativnim taksama i Tarifi kantonalnih administrativnih taksi",
+"gazette": "Službene novine Tuzlanskog kantona 15/2013",
+"date": "2013-11-18",
+"act_no": 518,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2015%20-%202013.pdf"
+},
+{
+"act": "o izmjenama Zakona o osnivanju Javne ustanove Disciplinski centar za maloljetnike Tuzlanskog kantona",
+"gazette": "Službene novine Tuzlanskog kantona 15/2013",
+"date": "2013-11-18",
+"act_no": 519,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2015%20-%202013.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o ministarstvima i drugim organima uprave Tuzlanskog kantona",
+"gazette": "Službene novine Tuzlanskog kantona 15/2013",
+"date": "2013-11-18",
+"act_no": 520,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2015%20-%202013.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o Zavodu zdravstvenog osiguranja Tuzlanskog kantona",
+"gazette": "Službene novine Tuzlanskog kantona 15/2013",
+"date": "2013-11-18",
+"act_no": 521,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.%2015%20-%202013.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ŠUMAMA",
+"gazette": "Službene novine Tuzlanskog kantona 17/2013",
+"date": "2013-12-11",
+"act_no": 615,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.17-2013.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2014. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 19/2013",
+"date": "2013-12-30",
+"act_no": 743,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/Sluzbene%20novine%20TK%20br.19-2013.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O CESTOVNOM PRIJEVOZU NA PODRUČJU TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 2/2014",
+"date": "2014-02-14",
+"act_no": 117,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_2_2014.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PRAVOBRANITELJSTVU",
+"gazette": "Službene novine Tuzlanskog kantona 2/2014",
+"date": "2014-02-14",
+"act_no": 118,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_2_2014.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2014. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 2/2014",
+"date": "2014-02-14",
+"act_no": 119,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_2_2014.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O DOPUNSKIM PRAVIMA BRANITELJA I ČLANOVA NJIHOVIH OBITELJI",
+"gazette": "Službene novine Tuzlanskog kantona 5/2014",
+"date": "2014-03-21",
+"act_no": 200,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_5_2014.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ОСНИВАЊУ ЈАВНЕ УСТАНОВЕ БОСАНСКИ КУЛТУРНИ ЦЕНТАР ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 10/2014",
+"date": "2014-07-26",
+"act_no": 404,
+"reason": "its in-force clause is not readable",
+"detail": "its in-force clause is not readable",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/Sluzbene_novine_TK_br_10_2014.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ ЗАКОНА О УНУТРАШЊИМ ПОСЛОВИМА ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 10/2014",
+"date": "2014-07-26",
+"act_no": 405,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/Sluzbene_novine_TK_br_10_2014.pdf"
+},
+{
+"act": "О РЕГУЛИСАЊУ ДОСПЈЕЛИХ А НЕУПЛАЋЕНИХ ОБАВЕЗА ПО ОСНОВУ ДОПРИНОСА ЗА ЗДРАВСТВЕНО ОСИГУРАЊЕ И ОСИГУРАЊЕ ОД НЕЗАПОСЛЕНОСТИ РУДНИКА УГЉА У ТУЗЛАНСКОМ КАНТОНУ",
+"gazette": "Službene novine Tuzlanskog kantona 11/2014",
+"date": "2014-08-22",
+"act_no": 409,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/Sluzbene_novine_TK_br_11_2014.pdf"
+},
+{
+"act": "O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2015. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 3/2015",
+"date": "2015-03-31",
+"act_no": 224,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/SluzbeneNovineTK%20BR.3-2015.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O PROSTORNOM UREĐENJU I GRAĐENJU",
+"gazette": "Službene novine Tuzlanskog kantona 3/2015",
+"date": "2015-03-31",
+"act_no": 225,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/SluzbeneNovineTK%20BR.3-2015.pdf"
+},
+{
+"act": "O PLAĆAMA I NAKNADAMA IZABRANIH DUŽNOSNIKA, NOSILACA IZVRŠNIH FUNKCIJA I SAVJETNIKA U ORGANIMA ZAKONODAVNE I IZVRŠNE VLASTI TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 11/2015",
+"date": "2015-10-07",
+"act_no": 592,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/Sluzbene%20novine%20TK%20br.%2011%20-%202015.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O JAVNOM OKUPLJANJU",
+"gazette": "Službene novine Tuzlanskog kantona 11/2015",
+"date": "2015-10-07",
+"act_no": 593,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/Sluzbene%20novine%20TK%20br.%2011%20-%202015.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA I ZAŠTITI PORODICE SA DJECOM",
+"gazette": "Službene novine Tuzlanskog kantona 11/2015",
+"date": "2015-10-07",
+"act_no": 594,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/Sluzbene%20novine%20TK%20br.%2011%20-%202015.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O INSPEKCIJAMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 13/2015",
+"date": "2015-11-09",
+"act_no": 640,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/Sluzbene%20novine%20TK%20br.%2013%20-%202015.pdf"
+},
+{
+"act": "O JAVNIM PRIZNANJIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2015",
+"date": "2015-11-20",
+"act_no": 642,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/Sluzbene%20novine%20TK%20br.%2014%20-%202015.pdf"
+},
+{
+"act": "o korištenju, upravljanju i održavanju zajedničkih dijelova i uređaja zgrade",
+"gazette": "Službene novine Tuzlanskog kantona 14/2015",
+"date": "2015-11-20",
+"act_no": 643,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2015/Sluzbene%20novine%20TK%20br.%2014%20-%202015.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ОСНОВНОМ ОДГОЈУ И ОБРАЗОВАЊУ",
+"gazette": "Službene novine Tuzlanskog kantona 6/2016",
+"date": "2016-06-03",
+"act_no": 478,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_6_2015.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Tuzlanskog kantona 6/2016",
+"date": "2016-06-03",
+"act_no": 479,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_6_2015.pdf"
+},
+{
+"act": "О ОСНИВАЊУ ЈАВНЕ УСТАНОВЕ МЈЕШОВИТА СРЕДЊА ШКОЛА ЛУКАВАЦ",
+"gazette": "Službene novine Tuzlanskog kantona 6/2016",
+"date": "2016-06-03",
+"act_no": 480,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_6_2015.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O VISOKOM OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 10/2016",
+"date": "2016-09-10",
+"act_no": 781,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbeneNovineTK_10_2016.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O DOPUNSKIM PRAVIMA BRANILACA I ČLANOVA NJIHOVIH PORODICA",
+"gazette": "Službene novine Tuzlanskog kantona 12/2016",
+"date": "2016-11-04",
+"act_no": 875,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2016/SluzbenenovineTK_12_2016.pdf"
+},
+{
+"act": "О ДРЖАВНОЈ СЛУЖБИ У ТУЗЛАНСКОМ КАНТОНУ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2017",
+"date": "2017-05-10",
+"act_no": 250,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%207%20-%202017.pdf"
+},
+{
+"act": "О ШУМАМА",
+"gazette": "Službene novine Tuzlanskog kantona 7/2017",
+"date": "2017-05-10",
+"act_no": 252,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%207%20-%202017.pdf"
+},
+{
+"act": "О ПРЕСТАНКУ ВАЖЕЊА ЗАКОНА О ЗАШТИТИ ПРИРОДЕ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2017",
+"date": "2017-05-10",
+"act_no": 252,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%207%20-%202017.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ И ДОПУНАМА ЗАКОНА О УСЛОВИМА И ПОСТУПКУ ЛЕГАЛИЗАЦИЈЕ БЕСПРАВНО ИЗГРАЂЕНИХ ГРАЂЕВИНА",
+"gazette": "Službene novine Tuzlanskog kantona 7/2017",
+"date": "2017-05-10",
+"act_no": 253,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%207%20-%202017.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА ЗАКОНА О ОСНИВАЊУ ЈАВНЕ УСТАНОВЕ ГИМНАЗИЈА „ИСМЕТ МУЈЕЗИНОВИЋ“ У ТУЗЛИ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2017",
+"date": "2017-05-10",
+"act_no": 254,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%207%20-%202017.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О БИБЛИОТЕЧКОЈ ДЈЕЛАТНОСТИ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2017",
+"date": "2017-05-10",
+"act_no": 255,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%207%20-%202017.pdf"
+},
+{
+"act": "О ДОПУНАМА ЗАКОНА О ИЗВРШЕЊУ БУЏЕТА ТУЗЛАНСКОГ КАНТОНА ЗА 2017. ГОДИНУ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2017",
+"date": "2017-05-10",
+"act_no": 256,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%207%20-%202017.pdf"
+},
+{
+"act": "O NAUČNOISTRAŽIVAČKOM RADU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2017",
+"date": "2017-10-09",
+"act_no": 549,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2014%20-%202017.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O PROGLAŠENJU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2017",
+"date": "2017-10-09",
+"act_no": 550,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2014%20-%202017.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O UNUTRAŠNJIM POSLOVIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2017",
+"date": "2017-10-09",
+"act_no": 551,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2014%20-%202017.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O KONCESIJAMA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2017",
+"date": "2017-10-09",
+"act_no": 552,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2014%20-%202017.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O MINISTARSTVIMA I DRUGIM ORGANIMA UPRAVE TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 15/2017",
+"date": "2017-11-01",
+"act_no": 582,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2015%20-%202017.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O VLADI TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 15/2017",
+"date": "2017-11-01",
+"act_no": 583,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2015%20-%202017.pdf"
+},
+{
+"act": "O IZMJENI I DOPUNI ZAKONA O VISOKOM OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 15/2017",
+"date": "2017-11-01",
+"act_no": 584,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2015%20-%202017.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ORUŽJU I MUNICIJI",
+"gazette": "Službene novine Tuzlanskog kantona 17/2017",
+"date": "2017-12-01",
+"act_no": 674,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2017%20-%202017.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2018. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 19/2017",
+"date": "2017-12-30",
+"act_no": 872,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2019%20-%202017.pdf"
+},
+{
+"act": "O JAVNO-PRIVATNOM PARTNERSTVU",
+"gazette": "Službene novine Tuzlanskog kantona 19/2017",
+"date": "2017-12-30",
+"act_no": 873,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2017/Sluzbene%20novine%20TK%20br.%2019%20-%202017.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNI ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA I ZAŠTITI OBITELJI SA DJECOM",
+"gazette": "Službene novine Tuzlanskog kantona 4/2018",
+"date": "2018-03-09",
+"act_no": 238,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%204%20-%202018.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PRAVOBRANITELJSTVU",
+"gazette": "Službene novine Tuzlanskog kantona 4/2018",
+"date": "2018-03-09",
+"act_no": 239,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%204%20-%202018.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O NOVČANIM PODRŠKAMA U POLJOPRIVREDI I RURALNOM RAZVOJU TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 4/2018",
+"date": "2018-03-09",
+"act_no": 240,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%204%20-%202018.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O REGULIRANJU DOSPJELIH A NEUPLAĆENIH OBVEZA PO OSNOVU DOPRINOSA ZA ZDRAVSTVENO OSIGURANJE I OSIGURANJE OD NEZAPOSLENOSTI RUDNIKA UGLJA U TUZLANSKOM KANTONU",
+"gazette": "Službene novine Tuzlanskog kantona 4/2018",
+"date": "2018-03-09",
+"act_no": 241,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%204%20-%202018.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ŠPORTU",
+"gazette": "Službene novine Tuzlanskog kantona 6/2018",
+"date": "2018-04-12",
+"act_no": 306,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/SluzbeneNovineTK-BR.6-2018.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ПРЕДШКОЛСКОМ ОДГОЈУ И ОБРАЗОВАЊУ",
+"gazette": "Službene novine Tuzlanskog kantona 8/2018",
+"date": "2018-05-10",
+"act_no": 388,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%208-18-cirilica-web.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ПРИЗНАВАЊУ ИНОСТРАНИХ ОБРАЗОВНИХ ИСПРАВА",
+"gazette": "Službene novine Tuzlanskog kantona 8/2018",
+"date": "2018-05-10",
+"act_no": 389,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%208-18-cirilica-web.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ИЗВРШЕЊУ САНКЦИЈА",
+"gazette": "Službene novine Tuzlanskog kantona 8/2018",
+"date": "2018-05-10",
+"act_no": 390,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%208-18-cirilica-web.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ДРЖАВНОЈ СЛУЖБИ У ТУЗЛАНСКОМ КАНТОНУ",
+"gazette": "Službene novine Tuzlanskog kantona 10/2018",
+"date": "2018-06-13",
+"act_no": 472,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О КОНЦЕСИЈАМА",
+"gazette": "Službene novine Tuzlanskog kantona 10/2018",
+"date": "2018-06-13",
+"act_no": 473,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА ЗАКОНА О КАНТОНАЛНИМ АДМИНИСТРАТИВНИМ ТАКСАМА И ТАРИФИ КАНТОНАЛНИХ АДМИНИСТРАТИВНИХ ТАКСИ",
+"gazette": "Službene novine Tuzlanskog kantona 10/2018",
+"date": "2018-06-13",
+"act_no": 475,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf"
+},
+{
+"act": "О МИНИСТАРСТВИМА И ДРУГИМ ОРГАНИМА УПРАВЕ ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 10/2018",
+"date": "2018-06-13",
+"act_no": 477,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Slu%C5%BEbeneNovineTK%2010-18-web.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА ЗАКОНА О УСЛОВИМА И ПОСТУПКУ ЛЕГАЛИЗАЦИЈЕ БЕСПРАВНО ИЗГРАЂЕНИХ ГРАЂЕВИНА",
+"gazette": "Službene novine Tuzlanskog kantona 11/2018",
+"date": "2018-07-06",
+"act_no": 524,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2011%20-%202018.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ ЗАКОНА О ИЗВРШЕЊУ БУЏЕТА ТУЗЛАНСКОГ КАНТОНА ЗА 2018. ГОДИНУ",
+"gazette": "Službene novine Tuzlanskog kantona 11/2018",
+"date": "2018-07-06",
+"act_no": 525,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2011%20-%202018.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА ЗАКОНА О УНУТРАШЊИМ ПОСЛОВИМА ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 11/2018",
+"date": "2018-07-06",
+"act_no": 526,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2011%20-%202018.pdf"
+},
+{
+"act": "О ДОПУНАМА ЗАКОНА О ЗНАЧАЈНИМ ДАТУМИМА И ЛИЧНОСТИМА НА ПОДРУЧЈУ ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 11/2018",
+"date": "2018-07-06",
+"act_no": 527,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2011%20-%202018.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVNOM ODGOJU I OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2018",
+"date": "2018-09-20",
+"act_no": 668,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2014%20-%202018.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SREDNJEM OBRAZOVANJU I ODGOJU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2018",
+"date": "2018-09-20",
+"act_no": 669,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2014%20-%202018.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2018",
+"date": "2018-09-20",
+"act_no": 670,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2014%20-%202018.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O UNUTRAŠNJIM POSLOVIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2018",
+"date": "2018-09-20",
+"act_no": 671,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2014%20-%202018.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O RADIO-TELEVIZIJI TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2018",
+"date": "2018-09-20",
+"act_no": 672,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2018/Sluzbene%20novine%20TK%20br.%2014%20-%202018.pdf"
+},
+{
+"act": "O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2019. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 3/2019",
+"date": "2019-03-28",
+"act_no": 218,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/sluzbene%20novine_3-2019_web.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2019. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 11/2019",
+"date": "2019-10-23",
+"act_no": 494,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.11-2019.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o osnivanju Javne ustanove Mješovita srednja škola u Sapni",
+"gazette": "Službene novine Tuzlanskog kantona 12/2019",
+"date": "2019-11-12",
+"act_no": 532,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SLU%C5%BDBENE%20NOVINE%2012%20-%2019%20final%20-%20web.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o osnivanju Javne ustanove Gimanzija „Ismet Mujezinović“ u Tuzli",
+"gazette": "Službene novine Tuzlanskog kantona 12/2019",
+"date": "2019-11-12",
+"act_no": 533,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SLU%C5%BDBENE%20NOVINE%2012%20-%2019%20final%20-%20web.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o osnivanju Javne ustanove Osnovna škola „Sjenjak“ u Tuzli",
+"gazette": "Službene novine Tuzlanskog kantona 12/2019",
+"date": "2019-11-12",
+"act_no": 534,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SLU%C5%BDBENE%20NOVINE%2012%20-%2019%20final%20-%20web.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o osnivanju Javne ustanove Mješovita srednja škola Lukavac",
+"gazette": "Službene novine Tuzlanskog kantona 12/2019",
+"date": "2019-11-12",
+"act_no": 535,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SLU%C5%BDBENE%20NOVINE%2012%20-%2019%20final%20-%20web.pdf"
+},
+{
+"act": "o prestanku važenja Zakona o uređenju imovinsko-pravnih i drugih odnosa u vezi sa preuzimanjem prava i obaveza osnivača prema osnovnim školama koje imaju status javne ustanove",
+"gazette": "Službene novine Tuzlanskog kantona 12/2019",
+"date": "2019-11-12",
+"act_no": 536,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SLU%C5%BDBENE%20NOVINE%2012%20-%2019%20final%20-%20web.pdf"
+},
+{
+"act": "o prestanku važenja Zakona o uređenju imovinsko-pravnih i drugih odnosa u vezi sa preuzimanjem prava i obaveza osnivača prema srednjim školama koje imaju status javne ustanove",
+"gazette": "Službene novine Tuzlanskog kantona 12/2019",
+"date": "2019-11-12",
+"act_no": 537,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SLU%C5%BDBENE%20NOVINE%2012%20-%2019%20final%20-%20web.pdf"
+},
+{
+"act": "o izmjeni i dopunama Zakona o porezu na imovinu, nasljeđe i poklon",
+"gazette": "Službene novine Tuzlanskog kantona 13/2019",
+"date": "2019-12-05",
+"act_no": 574,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.13-2019.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O ROBNIM REZERVAMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 14/2019",
+"date": "2019-12-24",
+"act_no": 626,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.14-2019.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVNOM ODGOJU I OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2019",
+"date": "2019-12-24",
+"act_no": 627,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.14-2019.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SREDNJEM OBRAZOVANJU I ODGOJU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2019",
+"date": "2019-12-24",
+"act_no": 628,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.14-2019.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O JAVNO-PRIVATNOM PARTNERSTVU",
+"gazette": "Službene novine Tuzlanskog kantona 14/2019",
+"date": "2019-12-24",
+"act_no": 629,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.14-2019.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2020. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 16/2019",
+"date": "2019-12-30",
+"act_no": 721,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2019/SluzbeneNovineTK%20BR.16-2019.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNIVANJU JAVNE USTANOVE ZAVOD ZA ODGOJ I NAOBRAZBU OSOBA SA SMETNJAMA U PSIHIČKOM I TJELESNOM RAZVOJU U TUZLI",
+"gazette": "Službene novine Tuzlanskog kantona 2/2020",
+"date": "2020-03-03",
+"act_no": 157,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbeneNovineTK%20BR.2-2020.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ИЗВРШЕЊУ БУЏЕТА ТУЗЛАНСКОГ КАНТОНА ЗА 2020. ГОДИНУ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2020",
+"date": "2020-05-22",
+"act_no": 506,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/sluzbnenovine72020.pdf"
+},
+{
+"act": "law no. 1050",
+"gazette": "Službene novine Tuzlanskog kantona 16/2020",
+"date": "2020-10-16",
+"act_no": 1050,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbenenoviniTKBR.16-2020.pdf"
+},
+{
+"act": "law no. 1051",
+"gazette": "Službene novine Tuzlanskog kantona 16/2020",
+"date": "2020-10-16",
+"act_no": 1051,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbenenoviniTKBR.16-2020.pdf"
+},
+{
+"act": "law no. 1052",
+"gazette": "Službene novine Tuzlanskog kantona 16/2020",
+"date": "2020-10-16",
+"act_no": 1052,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbenenoviniTKBR.16-2020.pdf"
+},
+{
+"act": "law no. 2",
+"gazette": "Službene novine Tuzlanskog kantona 1/2021",
+"date": "2021-01-20",
+"act_no": 2,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: fewer than two articles",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%201-2021.pdf"
+},
+{
+"act": "law no. 277",
+"gazette": "Službene novine Tuzlanskog kantona 3/2021",
+"date": "2021-03-05",
+"act_no": 277,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SL%20NOVINE%203%2021%20FINAL%20KOMPLET.pdf"
+},
+{
+"act": "law no. 298",
+"gazette": "Službene novine Tuzlanskog kantona 5/2021",
+"date": "2021-04-06",
+"act_no": 298,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%205-2021.pdf"
+},
+{
+"act": "law no. 434",
+"gazette": "Službene novine Tuzlanskog kantona 8/2021",
+"date": "2021-05-11",
+"act_no": 434,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%208-2021.pdf"
+},
+{
+"act": "law no. 435",
+"gazette": "Službene novine Tuzlanskog kantona 8/2021",
+"date": "2021-05-11",
+"act_no": 435,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%208-2021.pdf"
+},
+{
+"act": "law no. 436",
+"gazette": "Službene novine Tuzlanskog kantona 8/2021",
+"date": "2021-05-11",
+"act_no": 436,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%208-2021.pdf"
+},
+{
+"act": "law no. 437",
+"gazette": "Službene novine Tuzlanskog kantona 8/2021",
+"date": "2021-05-11",
+"act_no": 437,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%208-2021.pdf"
+},
+{
+"act": "law no. 434",
+"gazette": "Službene novine Tuzlanskog kantona 9/2021",
+"date": "2021-06-04",
+"act_no": 434,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%209-2021.pdf"
+},
+{
+"act": "law no. 568",
+"gazette": "Službene novine Tuzlanskog kantona 10/2021",
+"date": "2021-06-17",
+"act_no": 568,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-001",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR%2010-2021.pdf"
+},
+{
+"act": "law no. 434",
+"gazette": "Službene novine Tuzlanskog kantona 11/2021",
+"date": "2021-06-29",
+"act_no": 434,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-001",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2011-2021.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Tuzlanskog kantona 11/2021",
+"date": "2021-06-29",
+"act_no": 640,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2011-2021.pdf"
+},
+{
+"act": "О КОМУНАЛНИМ ДЈЕЛАТНОСТИМА",
+"gazette": "Službene novine Tuzlanskog kantona 11/2021",
+"date": "2021-06-29",
+"act_no": 641,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2011-2021.pdf"
+},
+{
+"act": "law no. 642",
+"gazette": "Službene novine Tuzlanskog kantona 11/2021",
+"date": "2021-06-29",
+"act_no": 642,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: heading after the last article",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2011-2021.pdf"
+},
+{
+"act": "law no. 643",
+"gazette": "Službene novine Tuzlanskog kantona 12/2021",
+"date": "2021-07-05",
+"act_no": 643,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2012-2021.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ИЗВРШЕЊУ БУЏЕТА ТУЗЛАНСКОГ КАНТОНА ЗА 2021. ГОДИНУ",
+"gazette": "Službene novine Tuzlanskog kantona 12/2021",
+"date": "2021-07-05",
+"act_no": 644,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novine%20TK%20BR.%2012-2021.pdf"
+},
+{
+"act": "law no. 434",
+"gazette": "Službene novine Tuzlanskog kantona 13/2021",
+"date": "2021-07-16",
+"act_no": 434,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: duplicate clan-001",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbr132021.pdf"
+},
+{
+"act": "law no. 712",
+"gazette": "Službene novine Tuzlanskog kantona 15/2021",
+"date": "2021-08-10",
+"act_no": 712,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: heading after the last article",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novineTKBR152021.pdf"
+},
+{
+"act": "law no. 876",
+"gazette": "Službene novine Tuzlanskog kantona 16/2021",
+"date": "2021-09-23",
+"act_no": 876,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novineTKBR162021.pdf"
+},
+{
+"act": "law no. 968",
+"gazette": "Službene novine Tuzlanskog kantona 17/2021",
+"date": "2021-09-29",
+"act_no": 968,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/Sluzbene%20novineTKbr172021.pdf"
+},
+{
+"act": "law no. 1020",
+"gazette": "Službene novine Tuzlanskog kantona 19/2021",
+"date": "2021-10-27",
+"act_no": 1020,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR19-2021.pdf"
+},
+{
+"act": "law no. 1021",
+"gazette": "Službene novine Tuzlanskog kantona 19/2021",
+"date": "2021-10-27",
+"act_no": 1021,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKBR19-2021.pdf"
+},
+{
+"act": "law no. 1131",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1131,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1132",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1132,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1133",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1133,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1134",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1134,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1135",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1135,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1136",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1136,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1137",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1137,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1138",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1138,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1139",
+"gazette": "Službene novine Tuzlanskog kantona 22/2021",
+"date": "2021-12-28",
+"act_no": 1139,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj22-2021.pdf"
+},
+{
+"act": "law no. 1264",
+"gazette": "Službene novine Tuzlanskog kantona 23/2021",
+"date": "2021-12-30",
+"act_no": 1264,
+"reason": "text does not split into articles",
+"detail": "text does not split into articles: no signature block",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2021/SluzbenenovineTKbroj23-2021.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O NAOBRAZBI ODRASLIH",
+"gazette": "Službene novine Tuzlanskog kantona 5/2022",
+"date": "2022-03-31",
+"act_no": 292,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbennovineTKBR5-2022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PREDŠKOLSKOM ODGOJU I NAOBRAZBI",
+"gazette": "Službene novine Tuzlanskog kantona 5/2022",
+"date": "2022-03-31",
+"act_no": 293,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbennovineTKBR5-2022.pdf"
+},
+{
+"act": "O IZMJENI I DOPUNI ZAKONA O OSNOVNOM ODGOJU I NAOBRAZBI",
+"gazette": "Službene novine Tuzlanskog kantona 5/2022",
+"date": "2022-03-31",
+"act_no": 294,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbennovineTKBR5-2022.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O SREDNJOJ NAOBRAZBI I ODGOJU",
+"gazette": "Službene novine Tuzlanskog kantona 5/2022",
+"date": "2022-03-31",
+"act_no": 295,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbennovineTKBR5-2022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA I ZAŠTITI OBITELJI SA DJECOM",
+"gazette": "Službene novine Tuzlanskog kantona 5/2022",
+"date": "2022-03-31",
+"act_no": 297,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbennovineTKBR5-2022.pdf"
+},
+{
+"act": "O POLICIJSKIM SLUŽBENICIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 7/2022",
+"date": "2022-04-21",
+"act_no": 344,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbene%20novine%20TK%20BR.%207-2022.pdf"
+},
+{
+"act": "O OSNIVANJU JAVNE USTANOVE ZAVOD ZA ODGOJ I NAOBRAZBU OSOBA SA SMETNJAMA U PSIHIČKOM I TJELESNOM RAZVOJU U TUZLI",
+"gazette": "Službene novine Tuzlanskog kantona 7/2022",
+"date": "2022-04-21",
+"act_no": 345,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbene%20novine%20TK%20BR.%207-2022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2022. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 8/2022",
+"date": "2022-04-29",
+"act_no": 394,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbene%20novine%20TK%20BR.%208-2022.pdf"
+},
+{
+"act": "O OSNIVANJU JAVNE USTANOVE CENTAR ZA AUTIZAM „MEHO SADIKOVIĆ“ TUZLA",
+"gazette": "Službene novine Tuzlanskog kantona 8/2022",
+"date": "2022-04-29",
+"act_no": 395,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbene%20novine%20TK%20BR.%208-2022.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA I ZAŠTITI OBITELJI SA DJECOM",
+"gazette": "Službene novine Tuzlanskog kantona 8/2022",
+"date": "2022-04-29",
+"act_no": 396,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbene%20novine%20TK%20BR.%208-2022.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Tuzlanskog kantona 10/2022",
+"date": "2022-05-20",
+"act_no": 436,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2010-2022.pdf"
+},
+{
+"act": "О ПЛАТАМА И НАКНАДАМА ДРЖАВНИХ СЛУЖБЕНИКА, НАМЈЕШТЕНИКА И ДРУГИХ ЛИЦА ЗАПОСЛЕНИХ У ОРГАНИМА ДРЖАВНЕ СЛУЖБЕ ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 11/2022",
+"date": "2022-06-16",
+"act_no": 481,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf"
+},
+{
+"act": "о измјени и допунама Закона о инспекцијама Тузланског кантона",
+"gazette": "Službene novine Tuzlanskog kantona 11/2022",
+"date": "2022-06-16",
+"act_no": 483,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf"
+},
+{
+"act": "О ДОПУНИ ЗАКОНА О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Tuzlanskog kantona 11/2022",
+"date": "2022-06-16",
+"act_no": 485,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНИ ЗАКОНА О ВИСОКОМ ОБРАЗОВАЊУ",
+"gazette": "Službene novine Tuzlanskog kantona 11/2022",
+"date": "2022-06-16",
+"act_no": 486,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Sluzbenenovine11-22%D1%98uni2022WEB.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ И ДОПУНИ ЗАКОНА О ДРЖАВНОЈ СЛУЖБИ У ТУЗЛАНСКОМ КАНТОНУ",
+"gazette": "Službene novine Tuzlanskog kantona 14/2022",
+"date": "2022-07-25",
+"act_no": 675,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKBR142022.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНИ ЗАКОНА О ШУМАМА",
+"gazette": "Službene novine Tuzlanskog kantona 14/2022",
+"date": "2022-07-25",
+"act_no": 676,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzbenenovineTKBR142022.pdf"
+},
+{
+"act": "O PLAĆAMA I NAKNADAMA POLICIJSKIH SLUŽBENIKA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 16/2022",
+"date": "2022-09-08",
+"act_no": 854,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzenenovineTKbr162022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O NAUČNOISTRAŽIVAČKOM RADU",
+"gazette": "Službene novine Tuzlanskog kantona 16/2022",
+"date": "2022-09-08",
+"act_no": 855,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzenenovineTKbr162022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O VISOKOM OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 16/2022",
+"date": "2022-09-08",
+"act_no": 856,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzenenovineTKbr162022.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O USLOVIMA I POSTUPKU LEGALIZACIJE BESPRAVNO IZGRAĐENIH GRAĐEVINA",
+"gazette": "Službene novine Tuzlanskog kantona 16/2022",
+"date": "2022-09-08",
+"act_no": 857,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SluzenenovineTKbr162022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2022. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 19/2022",
+"date": "2022-11-04",
+"act_no": 1122,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2019-2022.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA I ZAŠTITI PORODICE SA DJECOM",
+"gazette": "Službene novine Tuzlanskog kantona 19/2022",
+"date": "2022-11-04",
+"act_no": 1123,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/Slu%C5%BEbene%20novineTK%20BR.%2019-2022.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2023. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 22/2022",
+"date": "2022-12-30",
+"act_no": 1165,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SlubenenovineTKBR222022.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O ROBNIM REZERVAMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 22/2022",
+"date": "2022-12-30",
+"act_no": 1166,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SlubenenovineTKBR222022.pdf"
+},
+{
+"act": "o dopuni Zakona o prostornom uređenju i građenju",
+"gazette": "Službene novine Tuzlanskog kantona 22/2022",
+"date": "2022-12-30",
+"act_no": 1167,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2022/SlubenenovineTKBR222022.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2023. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 3/2023",
+"date": "2023-02-22",
+"act_no": 322,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR3-2023.pdf"
+},
+{
+"act": "О ДОПУНИ ЗАКОНА О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Tuzlanskog kantona 9/2023",
+"date": "2023-06-12",
+"act_no": 594,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR9-2023.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ДОПУНСКИМ ПРАВИМА БРАНИЛАЦА И ЧЛАНОВА ЊИХОВИХ ПОРОДИЦА",
+"gazette": "Službene novine Tuzlanskog kantona 9/2023",
+"date": "2023-06-12",
+"act_no": 595,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR9-2023.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ИЗВРШЕЊУ БУЏЕТА ТУЗЛАНСКОГ КАНТОНА ЗА 2023. ГОДИНУ",
+"gazette": "Službene novine Tuzlanskog kantona 10/2023",
+"date": "2023-06-22",
+"act_no": 628,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/SluzbenenovineTKBR10-2023.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СОЦИЈАЛНОЈ ЗАШТИТИ, ЗАШТИТИ ЦИВИЛНИХ ЖРТАВА РАТА И ЗАШТИТИ ПОРОДИЦЕ СА ДЈЕЦОМ",
+"gazette": "Službene novine Tuzlanskog kantona 12/2023",
+"date": "2023-08-02",
+"act_no": 744,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR12-20223.pdf"
+},
+{
+"act": "О ДОПУНАМА ЗАКОНА О ОСНОВНОМ ОДГОЈУ И ОБРАЗОВАЊУ",
+"gazette": "Službene novine Tuzlanskog kantona 12/2023",
+"date": "2023-08-02",
+"act_no": 745,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR12-20223.pdf"
+},
+{
+"act": "О ДОПУНАМА ЗАКОНА О СРЕДЊЕМ ОБРАЗОВАЊУ И ОДГОЈУ",
+"gazette": "Službene novine Tuzlanskog kantona 12/2023",
+"date": "2023-08-02",
+"act_no": 746,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR12-20223.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2023. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 17/2023",
+"date": "2023-11-03",
+"act_no": 977,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTK%20BR.17-20223.pdf"
+},
+{
+"act": "O PRUŽANJU BESPLATNE PRAVNE POMOĆI",
+"gazette": "Službene novine Tuzlanskog kantona 17/2023",
+"date": "2023-11-03",
+"act_no": 978,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTK%20BR.17-20223.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O POLICIJSKIM SLUŽBENICIMA TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 17/2023",
+"date": "2023-11-03",
+"act_no": 979,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTK%20BR.17-20223.pdf"
+},
+{
+"act": "O SOCIJALNOJ ZAŠTITI, ZAŠTITI CIVILNIH ŽRTAVA RATA",
+"gazette": "Službene novine Tuzlanskog kantona 18/2023",
+"date": "2023-11-17",
+"act_no": 988,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR.18-20223.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2023. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 20/2023",
+"date": "2023-12-21",
+"act_no": 1126,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR.20-20223.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PROSTORNOM UREĐENJU I GRAĐENJU",
+"gazette": "Službene novine Tuzlanskog kantona 20/2023",
+"date": "2023-12-21",
+"act_no": 1127,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR.20-20223.pdf"
+},
+{
+"act": "O IZMJENI I DOPUNAMA ZAKONA O PROMJENI NAMJENE POLJOPRIVREDNOG ZEMLJIŠTA",
+"gazette": "Službene novine Tuzlanskog kantona 20/2023",
+"date": "2023-12-21",
+"act_no": 1128,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2023/Slu%C5%BEbenenovineTKBR.20-20223.pdf"
+},
+{
+"act": "O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2024. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 3/2024",
+"date": "2024-02-26",
+"act_no": 237,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.3-2024.pdf"
+},
+{
+"act": "o izmjenama i dopunama Zakona o znanstvenoistraživačkom radu",
+"gazette": "Službene novine Tuzlanskog kantona 3/2024",
+"date": "2024-02-26",
+"act_no": 238,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.3-2024.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O MINISTARSTVIMA I DRUGIM ORGANIMA UPRAVE TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 5/2024",
+"date": "2024-04-05",
+"act_no": 335,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.5-2024.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O DOPUNSKIM PRAVIMA BRANITELJA I ČLANOVA NJIHOVIH OBITELJI",
+"gazette": "Službene novine Tuzlanskog kantona 5/2024",
+"date": "2024-04-05",
+"act_no": 336,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.5-2024.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О СОЦИЈАЛНОЈ ЗАШТИТИ, ЗАШТИТИ ЦИВИЛНИХ ЖРТАВА РАТА И ЗАШТИТИ ПОРОДИЦЕ СА ДЈЕЦОМ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2024",
+"date": "2024-05-09",
+"act_no": 442,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.7-2024.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ДРЖАВНОЈ СЛУЖБИ У ТУЗЛАНСКОМ КАНТОНУ",
+"gazette": "Službene novine Tuzlanskog kantona 7/2024",
+"date": "2024-05-09",
+"act_no": 444,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.7-2024.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ПЛАТАМА И НАКНАДАМА ИЗАБРАНИХ ДУЖНОСНИКА, НОСИЛАЦА ИЗВРШНИХ ФУНКЦИЈА И САВЈЕТНИКА У ОРГАНИМА ЗАКОНОДАВНЕ И ИЗВРШНЕ ВЛАСТИ ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 7/2024",
+"date": "2024-05-09",
+"act_no": 445,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.7-2024.pdf"
+},
+{
+"act": "o izmjeni i dopuni Zakona o Univerzitetu u Tuzli",
+"gazette": "Službene novine Tuzlanskog kantona 13/2024",
+"date": "2024-09-12",
+"act_no": 812,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.13-2024.pdf"
+},
+{
+"act": "O IZMJENI ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2024. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 13/2024",
+"date": "2024-09-12",
+"act_no": 813,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.13-2024.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2024. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 16/2024",
+"date": "2024-12-04",
+"act_no": 1048,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.16-2024.pdf"
+},
+{
+"act": "o izmjeni Zakona o priznavanju inostranih obrazovnih isprava",
+"gazette": "Službene novine Tuzlanskog kantona 16/2024",
+"date": "2024-12-04",
+"act_no": 1049,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.16-2024.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2025. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 18/2024",
+"date": "2024-12-28",
+"act_no": 1116,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2024/SluzbenenovineTKBR.18-2024.pdf"
+},
+{
+"act": "O PLAĆAMA I NAKNADAMA U ORGANIMA VLASTI TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 2/2025",
+"date": "2025-01-29",
+"act_no": 166,
+"reason": "tables read in a different order by the independent reader",
+"detail": "tables read in a different order by the independent reader",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_2-2025.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O PREDŠKOLSKOM ODGOJU I NAOBRAZBI",
+"gazette": "Službene novine Tuzlanskog kantona 5/2025",
+"date": "2025-03-21",
+"act_no": 326,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVNOM ODGOJU I NAOBRAZBI",
+"gazette": "Službene novine Tuzlanskog kantona 5/2025",
+"date": "2025-03-21",
+"act_no": 327,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O SREDNJOJ NAOBRAZBI I ODGOJU",
+"gazette": "Službene novine Tuzlanskog kantona 5/2025",
+"date": "2025-03-21",
+"act_no": 328,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_5-2025.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2025. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 7/2025",
+"date": "2025-04-29",
+"act_no": 462,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_7-2025.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O KOMUNALNIM DJELATNOSTIMA",
+"gazette": "Službene novine Tuzlanskog kantona 7/2025",
+"date": "2025-04-29",
+"act_no": 463,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_7-2025.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O NOVČANIM POTPORAMA U POLJOPRIVREDI I RURALNOM RAZVOJU TUZLANSKOG KANTONA",
+"gazette": "Službene novine Tuzlanskog kantona 7/2025",
+"date": "2025-04-29",
+"act_no": 464,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_7-2025.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2025. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 16/2025",
+"date": "2025-11-24",
+"act_no": 956,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_16-2025.pdf"
+},
+{
+"act": "O IZVRŠENJU BUDŽETA TUZLANSKOG KANTONA ZA 2026. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 18/2025",
+"date": "2025-12-30",
+"act_no": 1046,
+"reason": "budget law (temporary), out of scope",
+"detail": "budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_18-2025.pdf"
+},
+{
+"act": "O DOPUNI ZAKONA O PREDŠKOLSKOM ODGOJU I OBRAZOVANJU",
+"gazette": "Službene novine Tuzlanskog kantona 18/2025",
+"date": "2025-12-30",
+"act_no": 1047,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_18-2025.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O SREDNJEM OBRAZOVANJU I ODGOJU",
+"gazette": "Službene novine Tuzlanskog kantona 18/2025",
+"date": "2025-12-30",
+"act_no": 1048,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_18-2025.pdf"
+},
+{
+"act": "O DOPUNAMA ZAKONA O NAUČNOISTRAŽIVAČKOM RADU",
+"gazette": "Službene novine Tuzlanskog kantona 18/2025",
+"date": "2025-12-30",
+"act_no": 1049,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2025/Sluzbene_novine_TK_BR_18-2025.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O KOMUNALNIM DJELATNOSTIMA",
+"gazette": "Službene novine Tuzlanskog kantona 2/2026",
+"date": "2026-02-12",
+"act_no": 136,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_2-2026.pdf"
+},
+{
+"act": "O IZMJENAMA ZAKONA O IZVRŠENJU PRORAČUNA TUZLANSKOG KANTONA ZA 2026. GODINU",
+"gazette": "Službene novine Tuzlanskog kantona 3/2026",
+"date": "2026-02-26",
+"act_no": 258,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf"
+},
+{
+"act": "O IZMJENAMA I DOPUNAMA ZAKONA O DOPUNSKIM PRAVIMA BRANITELJA I ČLANOVA NJIHOVIH OBITELJI",
+"gazette": "Službene novine Tuzlanskog kantona 3/2026",
+"date": "2026-02-26",
+"act_no": 259,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_3-2026.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНИ ЗАКОНА О ИЗВРШЕЊУ БУЏЕТА ТУЗЛАНСКОГ КАНТОНА ЗА 2026. ГОДИНУ",
+"gazette": "Službene novine Tuzlanskog kantona 8/2026",
+"date": "2026-06-01",
+"act_no": 532,
+"reason": "amends a budget law (temporary), out of scope",
+"detail": "amends a budget law (temporary), out of scope",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_8-2026.pdf"
+},
+{
+"act": "О ИЗМЈЕНИ И ДОПУНИ ЗАКОНА О ПЛАТАМА И НАКНАДАМА ПОЛИЦИЈСКИХ СЛУЖБЕНИКА ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 8/2026",
+"date": "2026-06-01",
+"act_no": 533,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_8-2026.pdf"
+},
+{
+"act": "О ИЗМЈЕНАМА И ДОПУНАМА ЗАКОНА О ПОЛИЦИЈСКИМ СЛУЖБЕНИЦИМА ТУЗЛАНСКОГ КАНТОНА",
+"gazette": "Službene novine Tuzlanskog kantona 10/2026",
+"date": "2026-07-10",
+"act_no": 694,
+"reason": "independent text check failed",
+"detail": "independent text check failed: the second PDF reader (pypdf) does not give the same text in the same order",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2026/Sluzbene_novine_TK_BR_10-2026.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbenenoviniTKbr9%20junij2020.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (4 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbenenoviniTKr10juni2020.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (7 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2012/Sluzbene_Novine_TK_broj_1.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (7 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2014/SluzbeneNovineTK_BR_8_2014.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (5 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbenenovinTKbr8ma%202020.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (1 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2010/Sluzbene%202%20-%202010.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (4 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/Sluzbene%20noviniTKbr12avgust2020.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (3 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/SluzbenenovinetKBR11020.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (6 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2020/sluzbenenovin6202.pdf"
+},
+{
+"act": null,
+"gazette": null,
+"reason": "issue not read",
+"detail": "issue date not readable (2 laws in it)",
+"official_url": "https://skupstinatk.gov.ba/Dokumenti/sl_novine/2013/SluzbeneNovineTK%20BR.1-2013.pdf"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 1994",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "3 issues read, 6 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 1995",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "4 issues read, 6 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 1996",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "10 issues read, 36 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 1997",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "14 issues read, 60 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 1998",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "10 issues read, 34 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 1999",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "18 issues read, 63 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2000",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "16 issues read, 58 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2001",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "14 issues read, 30 ZAKON headings printed (all editions counted), 1 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2002",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "18 issues read, 56 ZAKON headings printed (all editions counted), 1 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2003",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "14 issues read, 28 ZAKON headings printed (all editions counted), 1 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2004",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "13 issues read, 28 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2006",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "15 issues read, 12 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2007",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "15 issues read, 15 ZAKON headings printed (all editions counted), 0 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+},
+{
+"act": null,
+"gazette": "Službene novine Tuzlanskog kantona, 2008",
+"reason": "the reader (built for the 2022-2026 layout) finds no law in this year's issues",
+"detail": "12 issues read, 18 ZAKON headings printed (all editions counted), 1 image-only issues; 0 laws read",
+"official_url": "https://skupstinatk.gov.ba/sluzbene-novine-tk"
+}
+]
+}
